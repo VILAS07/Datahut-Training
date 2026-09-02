@@ -1,0 +1,60 @@
+Name: A Light in the Attic
+Price: Â£51.77
+----------------------------------------
+Name: Tipping the Velvet
+Price: Â£53.74
+----------------------------------------
+Name: Soumission
+Price: Â£50.10
+----------------------------------------
+Name: Sharp Objects
+Price: Â£47.82
+----------------------------------------
+Name: Sapiens: A Brief History of Humankind
+Price: Â£54.23
+----------------------------------------
+Name: The Requiem Red
+Price: Â£22.65
+----------------------------------------
+Name: The Dirty Little Secrets of Getting Your Dream Job
+Price: Â£33.34
+----------------------------------------
+Name: The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull
+Price: Â£17.93
+----------------------------------------
+Name: The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics
+Price: Â£22.60
+----------------------------------------
+Name: The Black Maria
+Price: Â£52.15
+----------------------------------------
+Name: Starving Hearts (Triangular Trade Trilogy, #1)
+Price: Â£13.99
+----------------------------------------
+Name: Shakespeare's Sonnets
+Price: Â£20.66
+----------------------------------------
+Name: Set Me Free
+Price: Â£17.46
+----------------------------------------
+Name: Scott Pilgrim's Precious Little Life (Scott Pilgrim #1)
+Price: Â£52.29
+----------------------------------------
+Name: Rip it Up and Start Again
+Price: Â£35.02
+----------------------------------------
+Name: Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991
+Price: Â£57.25
+----------------------------------------
+Name: Olio
+Price: Â£23.88
+----------------------------------------
+Name: Mesaerion: The Best Science Fiction Stories 1800-1849
+Price: Â£37.59
+----------------------------------------
+Name: Libertarianism for Beginners
+Price: Â£51.33
+----------------------------------------
+Name: It's Only the Himalayas
+Price: Â£45.17
+----------------------------------------

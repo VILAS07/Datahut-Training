@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+Miner/proxy_test.py
+Miner/proxyscrape_premium_http_proxies.txt
