@@ -1,0 +1,7 @@
+.venv/
+<<<<<<< HEAD
+nawy.csv
+__pycache__/
+*.pyc
+=======
+>>>>>>> 81730a8ecc589a503f98d9ef50b8733fc8285054
