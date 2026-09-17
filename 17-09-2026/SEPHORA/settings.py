@@ -1,0 +1,11 @@
+BOT_NAME = "sephora_scraper"
+
+SPIDER_MODULES = ["sephora_scraper"]
+NEWSPIDER_MODULE = "sephora_scraper"
+
+ROBOTSTXT_OBEY = True
+
+CONCURRENT_REQUESTS_PER_DOMAIN = 1
+DOWNLOAD_DELAY = 1
+
+FEED_EXPORT_ENCODING = "utf-8"
