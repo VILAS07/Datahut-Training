@@ -1,0 +1,4326 @@
+name: Therese Drakeley Smith
+license: 0671321
+position: Realtor®
+office: Berkshire Hathaway HomeServices EWM Realty - Miami Beach
+cell: 305-951-5071
+work_phone: 305-674-4000
+direct_line: 305-951-5071
+office_phone: 305-674-4000
+email: 
+website: https://therese.ewm.com
+address: 419 West 41st Street Miami, FL 33140
+profile_url: https://www.ewm.com/agents/1776878/Therese+Drakeley+Smith
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1776878.jpg
+
+name: Xenia Dmitrieff, P.A.
+license: 3315721
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 917-822-4240
+work_phone: 305-960-2400
+direct_line: 917-822-4240
+office_phone: 305-960-2400
+email: 
+website: https://xenia.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/1785606/Xenia+Dmitrieff%2C+P.A.
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1785606.jpg
+
+name: Anakarina Tineo
+license: 3644726
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Miami Beach
+cell: 305-775-5498
+work_phone: 305-674-4000
+direct_line: 
+office_phone: 305-674-4000
+email: 
+website: https://anakarina.ewm.com
+address: 419 West 41st Street Miami, FL 33140
+profile_url: https://www.ewm.com/agents/2070275/Anakarina+Tineo
+image_url: https://d9la9jrhv6fdd.cloudfront.net/agentimages/nophoto.jpg
+
+name: Brigid Prio
+license: 3238218
+position: Trusted Real Estate Advisor
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 305-321-7335
+work_phone: 305-960-2400
+direct_line: 305-321-7335
+office_phone: 305-960-2400
+email: 
+website: https://brigidprio.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/1776936/Brigid+Prio
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1776936.jpg
+
+name: Lilly Paez
+license: 3664365
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 786-354-7919
+work_phone: 305-960-2400
+direct_line: 
+office_phone: 305-960-2400
+email: 
+website: https://lillypaez.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/2102554/Lilly+Paez
+image_url: https://d9la9jrhv6fdd.cloudfront.net/agentimages/nophoto.jpg
+
+name: Lisa Rosen, P.A.
+license: 3126279
+position: Realtor® Commercial & Residential Real Estate
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 305-804-7797
+work_phone: 305-960-2400
+direct_line: 305-804-7797
+office_phone: 305-960-2400
+email: 
+website: https://lisarosen.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/1776939/Lisa+Rosen%2C+P.A.
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1776939.jpg
+
+name: Kristin Tabb
+license: 3356265
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Aventura
+cell: 786-457-7277
+work_phone: 305-329-4900
+direct_line: 786-457-7277
+office_phone: 305-329-4900
+email: 
+website: https://kristintabb.ewm.com
+address: 2750 NE 185th Street Suite 101 Miami, FL 33180
+profile_url: https://www.ewm.com/agents/1936396/Kristin+Tabb
+image_url: https://d9la9jrhv6fdd.cloudfront.net/agentimages/nophoto.jpg
+
+name: Lina Marcela Rivera, P.A.
+license: 3259943
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 305-967-9601
+work_phone: 305-960-2400
+direct_line: 305-967-9601
+office_phone: 305-960-2400
+email: 
+website: https://linamarcelarivera.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/1777251/Lina+Marcela+Rivera%2C+P.A.
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1777251.jpg
+
+name: Serge Boucquin
+license: 3036554
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 305-984-6877
+work_phone: 305-984-6877
+direct_line: 305-984-6877
+office_phone: 305-960-2400
+email: 
+website: https://SergeBoucquin.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/1637595/Serge+Boucquin
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1637595.jpg
+
+name: Hanna Stern PA
+license: 3386770
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Miami Beach
+cell: 561-779-6664
+work_phone: 305-674-4000
+direct_line: 
+office_phone: 305-674-4000
+email: 
+website: https://hannasternpa.ewm.com
+address: 419 West 41st Street Miami, FL 33140
+profile_url: https://www.ewm.com/agents/2076423/Hanna+Stern+PA
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_2076423.jpg
+
+name: Elsa Corbett
+license: 3167531
+position: Broker Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Key Biscayne
+cell: 305-331-5877
+work_phone: 305-960-5350
+direct_line: 
+office_phone: 305-960-5350
+email: 
+website: https://elsacorbett.ewm.com
+address: 644 Crandon Boulevard Miami, FL 33149
+profile_url: https://www.ewm.com/agents/2033964/Elsa+Corbett
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_2033964.jpg
+
+name: Teresita De Blank
+license: 519305
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 305-775-1259
+work_phone: 305-775-1259
+direct_line: 305-775-1259
+office_phone: 305-960-2400
+email: 
+website: https://TeresitaDeBlank.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/1637597/Teresita+De+Blank
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1637597.jpg
+
+name: Daniel Arteaga
+license: 3409312
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Aventura
+cell: 
+work_phone: 305-329-4900
+direct_line: 305-329-4900
+office_phone: 305-329-4900
+email: 
+website: https://danielarteaga.ewm.com
+address: 2750 NE 185th Street Suite 101 Miami, FL 33180
+profile_url: https://www.ewm.com/agents/1776697/Daniel+Arteaga
+image_url: https://d9la9jrhv6fdd.cloudfront.net/agentimages/nophoto.jpg
+
+name: Roberta Capua Tazzini
+license: 3215114
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Key Biscayne
+cell: 786-970-3689
+work_phone: 305-960-5350
+direct_line: 786-970-3689
+office_phone: 305-960-5350
+email: 
+website: https://robertacapuatazzini.ewm.com
+address: 644 Crandon Boulevard Miami, FL 33149
+profile_url: https://www.ewm.com/agents/1857004/Roberta+Capua+Tazzini
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1857004.jpg
+
+name: Isabelle Andrews, P.A.
+license: 3042478
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 305-546-5421
+work_phone: 305-546-5421
+direct_line: 305-546-5421
+office_phone: 305-960-2400
+email: 
+website: https://isabelleandrews.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/1776992/Isabelle+Andrews%2C+P.A.
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1776992.jpg
+
+name: Anoland Infanzon
+license: 3349701
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 786-683-8162
+work_phone: 305-960-2400
+direct_line: 
+office_phone: 305-960-2400
+email: 
+website: https://anolandinfanzon.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/1777159/Anoland+Infanzon
+image_url: https://d9la9jrhv6fdd.cloudfront.net/agentimages/nophoto.jpg
+
+name: Conrad Clevlen
+license: 3524472
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Miami Beach
+cell: 512-636-2861
+work_phone: 561-227-0832
+direct_line: 
+office_phone: 305-674-4000
+email: 
+website: https://conradlouisclevlen.ewm.com
+address: 419 West 41st Street Miami, FL 33140
+profile_url: https://www.ewm.com/agents/1776921/Conrad+Clevlen
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1776921.jpg
+
+name: Jill Fitzgerald
+license: 3180215
+position: Broker Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 305-333-8671
+work_phone: 305-333-8671
+direct_line: 305-333-8671
+office_phone: 305-960-2400
+email: 
+website: https://jillfitzgeraldrealestate.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/1776949/Jill+Fitzgerald
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1776949.jpg
+
+name: Max Cufari
+license: 3297037
+position: Broker Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 786-505-4933
+work_phone: 786-505-4933
+direct_line: 786-505-4933
+office_phone: 305-960-2400
+email: 
+website: https://maxcufari.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/2069186/Max+Cufari
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_2069186.jpg
+
+name: James Sporrer
+license: 3318289
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 305-992-4091
+work_phone: 305-960-2430
+direct_line: 305-992-4091
+office_phone: 305-960-2400
+email: 
+website: https://jamessporrer.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/1777127/James+Sporrer
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1777127.jpg
+
+name: Miriam LLarena
+license: 0487625
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 305-205-7388
+work_phone: 305-205-7388
+direct_line: 305-205-7388
+office_phone: 305-960-2400
+email: 
+website: https://miriamllarena.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/1777147/Miriam+LLarena
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1777147.jpg
+
+name: John Scholl
+license: 701729
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 786-423-4634
+work_phone: 305-960-2400
+direct_line: 786-423-4634
+office_phone: 305-960-2400
+email: 
+website: https://johnscholl.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/1777038/John+Scholl
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1777038.jpg
+
+name: Ricardo Oviedo
+license: 3314612
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 305-505-3052
+work_phone: 305-960-2400
+direct_line: 
+office_phone: 305-960-2400
+email: 
+website: https://ricardooviedo.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/1777019/Ricardo+Oviedo
+image_url: https://d9la9jrhv6fdd.cloudfront.net/agentimages/nophoto.jpg
+
+name: Judy Luck Jordan
+license: 3040654
+position: Realtor®
+office: Berkshire Hathaway HomeServices EWM Realty - Aventura
+cell: 305-934-6373
+work_phone: 305-934-6373
+direct_line: 305-934-6373
+office_phone: 305-329-4900
+email: 
+website: https://judyluckjordan.ewm.com
+address: 2750 NE 185th Street Suite 101 Miami, FL 33180
+profile_url: https://www.ewm.com/agents/1776690/Judy+Luck+Jordan
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1776690.jpg
+
+name: Ximena Cevallos
+license: 3556945
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 786-973-7531
+work_phone: 305-960-2400
+direct_line: 
+office_phone: 305-960-2400
+email: 
+website: https://ximenacevallos.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/1777246/Ximena+Cevallos
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1777246.jpg
+
+name: Kathleen Davis
+license: 3054961
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Aventura
+cell: 954-263-5094
+work_phone: 954-306-7400
+direct_line: 954-263-5094
+office_phone: 305-329-4900
+email: 
+website: https://kathleendavis.ewm.com
+address: 2750 NE 185th Street Suite 101 Miami, FL 33180
+profile_url: https://www.ewm.com/agents/1777232/Kathleen+Davis
+image_url: https://d9la9jrhv6fdd.cloudfront.net/agentimages/nophoto.jpg
+
+name: Lindsey Brown
+license: 3188590
+position: Real Estate Advisor
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 305-494-3398
+work_phone: 305-960-2415
+direct_line: 
+office_phone: 305-960-2400
+email: 
+website: https://lindsey.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/1777004/Lindsey+Brown
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1777004.jpg
+
+name: Jeffrey M. Burns, P.A.
+license: 3326261
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 305-389-8333
+work_phone: 305-960-2400
+direct_line: 305-389-8333
+office_phone: 305-960-2400
+email: 
+website: https://jeffreyburns.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/1777110/Jeffrey+M.+Burns%2C+P.A.
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1777110.jpg
+
+name: Maria Elena Villamil
+license: 
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 305-801-9618
+work_phone: 305-960-2400
+direct_line: 305-801-9618
+office_phone: 305-960-2400
+email: 
+website: https://mariaelenavillamil.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/2094141/Maria+Elena+Villamil
+image_url: https://d9la9jrhv6fdd.cloudfront.net/agentimages/nophoto.jpg
+
+name: Sandra S. Borgonovo
+license: 3280809
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Key Biscayne
+cell: 786-486-0610
+work_phone: 305-361-5600
+direct_line: 786-486-0610
+office_phone: 305-960-5350
+email: 
+website: https://sandraborgonovo.ewm.com
+address: 644 Crandon Boulevard Miami, FL 33149
+profile_url: https://www.ewm.com/agents/1776777/Sandra+S.+Borgonovo
+image_url: https://d9la9jrhv6fdd.cloudfront.net/agentimages/nophoto.jpg
+
+name: Henry Pedroso MBA
+license: 3158437
+position: Broker Associate / Private Client Advisory / PSOC RSOC
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 305-282-1763
+work_phone: 305-282-1763
+direct_line: 305-282-1763
+office_phone: 305-960-2400
+email: 
+website: https://henrypedrosomba.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/1637495/Henry+Pedroso+MBA
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1637495.jpg
+
+name: Jeannie Montes de Oca, P.A.
+license: 3031590
+position: Real Estate Advisor
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 305-965-9242
+work_phone: 305-965-9242
+direct_line: 305-965-9242
+office_phone: 305-960-2400
+email: 
+website: https://jeanniemontesdeoca.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/1776947/Jeannie+Montes+de+Oca%2C+P.A.
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1776947.jpg
+
+name: Cristian Gonzalez Black
+license: 0669932
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Key Biscayne
+cell: 305-775-3426
+work_phone: 305-960-5350
+direct_line: 305-775-3426
+office_phone: 305-960-5350
+email: 
+website: https://cristiangonzalezblack.ewm.com
+address: 644 Crandon Boulevard Miami, FL 33149
+profile_url: https://www.ewm.com/agents/1776828/Cristian+Gonzalez+Black
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1776828.jpg
+
+name: Ingo Viehweg
+license: 3437648
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Key Biscayne
+cell: 305-342-9505
+work_phone: 305-361-5600
+direct_line: 305-342-9505
+office_phone: 305-960-5350
+email: 
+website: https://ingoviehweg.ewm.com
+address: 644 Crandon Boulevard Miami, FL 33149
+profile_url: https://www.ewm.com/agents/1776813/Ingo+Viehweg
+image_url: https://d9la9jrhv6fdd.cloudfront.net/agentimages/nophoto.jpg
+
+name: Natalia Gallego
+license: 3241214
+position: Broker Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Aventura
+cell: 305-431-6489
+work_phone: 305-329-4900
+direct_line: 305-431-6489
+office_phone: 305-329-4900
+email: 
+website: https://natalia-gallego.ewm.com
+address: 2750 NE 185th Street Suite 101 Miami, FL 33180
+profile_url: https://www.ewm.com/agents/1776714/Natalia+Gallego
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1776714.jpg
+
+name: Vanessa Portnoy, P.A.
+license: 3293729
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Aventura
+cell: 954-297-6537
+work_phone: 305-329-4900
+direct_line: 954-297-6537
+office_phone: 305-329-4900
+email: 
+website: https://vanessaportnoypa.ewm.com
+address: 2750 NE 185th Street Suite 101 Miami, FL 33180
+profile_url: https://www.ewm.com/agents/1776742/Vanessa+Portnoy%2C+P.A.
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1776742.jpg
+
+name: Philip Poster
+license: 3562989
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Aventura
+cell: 917-657-3580
+work_phone: 305-329-4900
+direct_line: 
+office_phone: 305-329-4900
+email: 
+website: https://philipposter.ewm.com
+address: 2750 NE 185th Street Suite 101 Miami, FL 33180
+profile_url: https://www.ewm.com/agents/1776708/Philip+Poster
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1776708.jpg
+
+name: Lina Maria De Ona
+license: 3346611
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 305-903-1213
+work_phone: 305-960-2400
+direct_line: 305-903-1213
+office_phone: 305-960-2400
+email: 
+website: https://linado.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/1777028/Lina+Maria+De+Ona
+image_url: https://d9la9jrhv6fdd.cloudfront.net/agentimages/nophoto.jpg
+
+name: Brenda Vemich
+license: 3281218
+position: Broker Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Miami Beach
+cell: 
+work_phone: 646-436-3074
+direct_line: 
+office_phone: 305-674-4000
+email: 
+website: https://brendavemich.ewm.com
+address: 419 West 41st Street Miami, FL 33140
+profile_url: https://www.ewm.com/agents/1776907/Brenda+Vemich
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1776907.jpg
+
+name: Arlene Valdes-Martinez
+license: 3176458
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 305-726-7303
+work_phone: 305-960-2400
+direct_line: 
+office_phone: 305-960-2400
+email: 
+website: https://arlenevaldesmartinez.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/2052244/Arlene+Valdes-Martinez
+image_url: https://d9la9jrhv6fdd.cloudfront.net/agentimages/nophoto.jpg
+
+name: Kaitlyn Theis
+license: 3600562
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Miami Beach
+cell: 954-401-2738
+work_phone: 305-674-4000
+direct_line: 
+office_phone: 305-674-4000
+email: 
+website: https://kaitlyntheis.ewm.com
+address: 419 West 41st Street Miami, FL 33140
+profile_url: https://www.ewm.com/agents/1799338/Kaitlyn+Theis
+image_url: https://d9la9jrhv6fdd.cloudfront.net/agentimages/nophoto.jpg
+
+name: Meg Del Valle
+license: 3049465
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 305-753-2325
+work_phone: 305-960-2400
+direct_line: 305-753-2325
+office_phone: 305-960-2400
+email: 
+website: https://megdelvalle.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/1777030/Meg+Del+Valle
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1777030.jpg
+
+name: Lucrecia Quarti
+license: 3528285
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Key Biscayne
+cell: 305-781-2821
+work_phone: 305-960-5350
+direct_line: 
+office_phone: 305-960-5350
+email: 
+website: https://lucreciaquarti.ewm.com
+address: 644 Crandon Boulevard Miami, FL 33149
+profile_url: https://www.ewm.com/agents/1776840/Lucrecia+Quarti
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1776840.jpg
+
+name: Roberto Ledesma-Durand
+license: 20001111
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Key Biscayne
+cell: 561-212-0139
+work_phone: 954-306-7400
+direct_line: 561-212-0139
+office_phone: 305-960-5350
+email: 
+website: https://robertoledesmadurand.ewm.com
+address: 644 Crandon Boulevard Miami, FL 33149
+profile_url: https://www.ewm.com/agents/1776845/Roberto+Ledesma-Durand
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1776845.jpg
+
+name: Aynsley Wolters
+license: 3490760
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Aventura
+cell: 754-300-7805
+work_phone: 754-300-7805
+direct_line: 754-300-7805
+office_phone: 305-329-4900
+email: 
+website: https://sellwithaynsley.ewm.com
+address: 2750 NE 185th Street Suite 101 Miami, FL 33180
+profile_url: https://www.ewm.com/agents/1777226/Aynsley+Wolters
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1777226.jpg
+
+name: Caridad (Cary) Avila
+license: 3098947
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 305-778-6943
+work_phone: 305-960-2400
+direct_line: 305-778-6943
+office_phone: 305-960-2400
+email: 
+website: https://caryavila.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/1776981/Caridad+%28Cary%29+Avila
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1776981.jpg
+
+name: Carlos Flores
+license: 3430555
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 305-761-9812
+work_phone: 305-960-2400
+direct_line: 305-761-9812
+office_phone: 305-960-2400
+email: 
+website: https://carlosflores.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/1777122/Carlos+Flores
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1777122.jpg
+
+name: Richard Wieder
+license: 3071072
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 305-979-0370
+work_phone: 305-960-2400
+direct_line: 305-979-0370
+office_phone: 305-960-2400
+email: 
+website: https://rickw.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/1777134/Richard+Wieder
+image_url: https://d9la9jrhv6fdd.cloudfront.net/agentimages/nophoto.jpg
+
+name: Lianet Casanas Feijos
+license: 
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 917-922-5553
+work_phone: 305-774-5889
+direct_line: 917-922-5553
+office_phone: 305-960-2400
+email: 
+website: https://lianetcasanasfeijas.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/1959385/Lianet+Casanas+Feijos
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1959385.jpg
+
+name: Yendry Suarez
+license: 3504114
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Key Biscayne
+cell: 786-623-8798
+work_phone: 305-960-5350
+direct_line: 
+office_phone: 305-960-5350
+email: 
+website: https://yendrysuarez.ewm.com
+address: 644 Crandon Boulevard Miami, FL 33149
+profile_url: https://www.ewm.com/agents/2065488/Yendry+Suarez
+image_url: https://d9la9jrhv6fdd.cloudfront.net/agentimages/nophoto.jpg
+
+name: Claudia Bacelar
+license: 3013905
+position: Licensed Real Estate Salesperson
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 305-244-7644
+work_phone: 305-960-2400
+direct_line: 305-244-7644
+office_phone: 305-960-2400
+email: 
+website: https://claudiabacelar.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/1776982/Claudia+Bacelar
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1776982.jpg
+
+name: Samuel Eady
+license: 3519590
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 551-206-7610
+work_phone: 305-960-2400
+direct_line: 305-960-2400
+office_phone: 305-960-2400
+email: 
+website: https://samueleady.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/1777105/Samuel+Eady
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1777105.jpg
+
+name: Josh Mesa
+license: 
+position: AGENT SUCCESS STRATEGIST
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 
+work_phone: 305-960-2400
+direct_line: 
+office_phone: 305-960-2500
+email: 
+website: https://joshmesa.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/1813516/Josh+Mesa
+image_url: https://d9la9jrhv6fdd.cloudfront.net/agentimages/nophoto.jpg
+
+name: Teresita Rodriguez
+license: 
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 786-301-6442
+work_phone: 786-301-6442
+direct_line: 786-301-6442
+office_phone: 305-960-2400
+email: 
+website: https://terryrodriguez.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/1777047/Teresita+Rodriguez
+image_url: https://dtzulyujzhqiu.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/1725177189_1777047.jpg
+
+name: Christian Jamin
+license: 3579195
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 305-484-6273
+work_phone: 305-484-6273
+direct_line: 
+office_phone: 305-960-2400
+email: 
+website: https://christianjamin.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/1777101/Christian+Jamin
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1777101.jpg
+
+name: Jennifer Gross
+license: 3086682
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 305-720-6889
+work_phone: 305-720-6889
+direct_line: 305-720-6889
+office_phone: 305-960-2400
+email: 
+website: https://jennifergross.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/1777167/Jennifer+Gross
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1777167.jpg
+
+name: Carrie Doan
+license: 3054906
+position: Associate Broker
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 786-251-1002
+work_phone: 305-960-2400
+direct_line: 786-251-1002
+office_phone: 305-960-2400
+email: 
+website: https://carriedoan.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/1777117/Carrie+Doan
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1777117.jpg
+
+name: Carolina Valdes-Fauli
+license: 3647867
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 305-510-4514
+work_phone: 305-960-2400
+direct_line: 
+office_phone: 305-960-2400
+email: 
+website: https://carolinavaldesfauli.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/2041692/Carolina+Valdes-Fauli
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_2041692.jpg
+
+name: Carolina Arellano
+license: 3280939
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Key Biscayne
+cell: 305-742-5166
+work_phone: 305-742-5166
+direct_line: 305-742-5166
+office_phone: 305-960-5350
+email: 
+website: https://carolinaarellano.ewm.com
+address: 644 Crandon Boulevard Miami, FL 33149
+profile_url: https://www.ewm.com/agents/1776815/Carolina+Arellano
+image_url: https://d9la9jrhv6fdd.cloudfront.net/agentimages/nophoto.jpg
+
+name: Alba Biondi
+license: 3228451
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 305-323-2595
+work_phone: 305-960-2400
+direct_line: 305-323-2595
+office_phone: 305-960-2400
+email: 
+website: https://albabiondi.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/1776987/Alba+Biondi
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1776987.jpg
+
+name: Rona Daniels
+license: 0572814
+position: Broker Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Miami Beach
+cell: 561-909-7333
+work_phone: 305-674-4000
+direct_line: 561-909-7333
+office_phone: 305-674-4000
+email: 
+website: https://ronadaniels.ewm.com
+address: 419 West 41st Street Miami, FL 33140
+profile_url: https://www.ewm.com/agents/1776884/Rona+Daniels
+image_url: https://d9la9jrhv6fdd.cloudfront.net/agentimages/nophoto.jpg
+
+name: Maria Corina Betancourt
+license: 3174621
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Key Biscayne
+cell: 954-665-4762
+work_phone: 305-960-5350
+direct_line: 954-665-4762
+office_phone: 305-960-5350
+email: 
+website: https://mariacorinabetancourt.ewm.com
+address: 644 Crandon Boulevard Miami, FL 33149
+profile_url: https://www.ewm.com/agents/1776837/Maria+Corina+Betancourt
+image_url: https://d9la9jrhv6fdd.cloudfront.net/agentimages/nophoto.jpg
+
+name: Linda Fellner Lachman
+license: 3304770
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Miami Beach
+cell: 954-270-3451
+work_phone: 305-674-4000
+direct_line: 954-270-3451
+office_phone: 305-674-4000
+email: 
+website: https://lindafellner.ewm.com
+address: 419 West 41st Street Miami, FL 33140
+profile_url: https://www.ewm.com/agents/1809081/Linda+Fellner+Lachman
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1809081.jpg
+
+name: Elizabeth Lima
+license: 3125096
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 786-326-6324
+work_phone: 786-326-6324
+direct_line: 786-326-6324
+office_phone: 305-960-2400
+email: 
+website: https://ElizabethLima.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/1637599/Elizabeth+Lima
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1637599.jpg
+
+name: Vivian Galego-Mendez
+license: 3012886
+position: Managing Broker
+office: Berkshire Hathaway HomeServices EWM Realty - Key Biscayne
+cell: 305-205-2626
+work_phone: 305-361-5600
+direct_line: 305-205-2626
+office_phone: 305-960-5350
+email: 
+website: https://viviangalegomendez.ewm.com
+address: 644 Crandon Boulevard Miami, FL 33149
+profile_url: https://www.ewm.com/agents/1776773/Vivian+Galego-Mendez
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1776773.jpg
+
+name: Shelly Macin Buncher
+license: 0604162
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Aventura
+cell: 305-785-1221
+work_phone: 305-785-1221
+direct_line: 305-785-1221
+office_phone: 305-329-4900
+email: 
+website: https://shellybuncher.ewm.com
+address: 2750 NE 185th Street Suite 101 Miami, FL 33180
+profile_url: https://www.ewm.com/agents/1776702/Shelly+Macin+Buncher
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1776702.jpg
+
+name: Mali Shahbazian
+license: 3084501
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 305-431-5927
+work_phone: 305-431-5927
+direct_line: 305-431-5927
+office_phone: 305-960-2400
+email: 
+website: https://mali.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/1777086/Mali+Shahbazian
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1777086.jpg
+
+name: Christopher Zoller
+license: 0368923
+position: Broker Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 305-321-3221
+work_phone: 305-329-7779
+direct_line: 305-321-3221
+office_phone: 305-960-2400
+email: 
+website: https://christopherzoller.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/1777141/Christopher+Zoller
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1777141.jpg
+
+name: Daniela Gonzalez Marino
+license: 3436562
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Key Biscayne
+cell: 281-686-8336
+work_phone: 305-960-5350
+direct_line: 281-686-8336
+office_phone: 305-960-5350
+email: 
+website: https://danielagonzalez.ewm.com
+address: 644 Crandon Boulevard Miami, FL 33149
+profile_url: https://www.ewm.com/agents/1776792/Daniela+Gonzalez+Marino
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1776792.jpg
+
+name: Rose Roderiquez
+license: 3620573
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 305-773-1962
+work_phone: 305-960-2400
+direct_line: 
+office_phone: 305-960-2400
+email: 
+website: https://roserod.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/1959845/Rose+Roderiquez
+image_url: https://d9la9jrhv6fdd.cloudfront.net/agentimages/nophoto.jpg
+
+name: Amy Steinhour
+license: 3556875
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 305-606-0857
+work_phone: 305-960-2400
+direct_line: 
+office_phone: 305-960-2400
+email: 
+website: https://amysteinhour.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/1777043/Amy+Steinhour
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1777043.jpg
+
+name: Jill Nieburg
+license: 604162
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Aventura
+cell: 954-319-5770
+work_phone: 305-329-4900
+direct_line: 
+office_phone: 305-329-4900
+email: 
+website: https://jillnieburg.ewm.com
+address: 2750 NE 185th Street Suite 101 Miami, FL 33180
+profile_url: https://www.ewm.com/agents/1776707/Jill+Nieburg
+image_url: https://d9la9jrhv6fdd.cloudfront.net/agentimages/nophoto.jpg
+
+name: Milagros Vazquez
+license: 3459176
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Aventura
+cell: 917-992-8467
+work_phone: 305-329-4900
+direct_line: 917-992-8467
+office_phone: 305-329-4900
+email: 
+website: https://milagrosvazquez.ewm.com
+address: 2750 NE 185th Street Suite 101 Miami, FL 33180
+profile_url: https://www.ewm.com/agents/1776717/Milagros+Vazquez
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1776717.jpg
+
+name: David Jimenez PA
+license: 3328339
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 305-842-9565
+work_phone: 305-842-9565
+direct_line: 305-842-9565
+office_phone: 305-960-2400
+email: 
+website: https://davidjimenez.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/1776993/David+Jimenez+PA
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1776993.jpg
+
+name: Robert Martin
+license: 3346282
+position: SALES ASSOCIATE
+office: Berkshire Hathaway HomeServices EWM Realty - Aventura
+cell: 954-815-9436
+work_phone: 954-815-9436
+direct_line: 954-815-9436
+office_phone: 305-329-4900
+email: 
+website: https://robertmartin.ewm.com
+address: 2750 NE 185th Street Suite 101 Miami, FL 33180
+profile_url: https://www.ewm.com/agents/1776744/Robert+Martin
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1776744.jpg
+
+name: Mily Soberon
+license: 3281497
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Miami Beach
+cell: 786-413-7963
+work_phone: 786-413-7963
+direct_line: 786-413-7963
+office_phone: 305-674-4000
+email: 
+website: https://milysoberon.ewm.com
+address: 419 West 41st Street Miami, FL 33140
+profile_url: https://www.ewm.com/agents/1776874/Mily+Soberon
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1776874.jpg
+
+name: Patricia Alvarez
+license: 3534787
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 786-403-1228
+work_phone: 305-960-2400
+direct_line: 
+office_phone: 305-960-2400
+email: 
+website: https://patriciaalvarez.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/1777280/Patricia+Alvarez
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1777280.jpg
+
+name: Christine Constantini
+license: 3537012
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 206-349-3963
+work_phone: 305-960-2400
+direct_line: 
+office_phone: 305-960-2400
+email: 
+website: https://christineconstantini.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/1777161/Christine+Constantini
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1777161.jpg
+
+name: Alysa Margulies
+license: 3657705
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Aventura
+cell: 610-420-1766
+work_phone: 305-329-4900
+direct_line: 
+office_phone: 305-329-4900
+email: 
+website: https://alysamargulies.ewm.com
+address: 2750 NE 185th Street Suite 101 Miami, FL 33180
+profile_url: https://www.ewm.com/agents/2099814/Alysa+Margulies
+image_url: https://d9la9jrhv6fdd.cloudfront.net/agentimages/nophoto.jpg
+
+name: Melanie Newman
+license: 3026163
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Aventura
+cell: 305-785-0199
+work_phone: 305-785-0199
+direct_line: 305-785-0199
+office_phone: 305-329-4900
+email: 
+website: https://melanienewman.ewm.com
+address: 2750 NE 185th Street Suite 101 Miami, FL 33180
+profile_url: https://www.ewm.com/agents/1776721/Melanie+Newman
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1776721.jpg
+
+name: Angela Hunte
+license: 3635179
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Aventura
+cell: 404-808-3451
+work_phone: 305-329-4900
+direct_line: 
+office_phone: 305-329-4900
+email: 
+website: https://angelahunte.ewm.com
+address: 2750 NE 185th Street Suite 101 Miami, FL 33180
+profile_url: https://www.ewm.com/agents/1995832/Angela+Hunte
+image_url: https://d9la9jrhv6fdd.cloudfront.net/agentimages/nophoto.jpg
+
+name: Daniel Villaraus
+license: 3647487
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Aventura
+cell: 936-333-0015
+work_phone: 305-329-4900
+direct_line: 
+office_phone: 305-329-4900
+email: 
+website: https://danielvillaraus.ewm.com
+address: 2750 NE 185th Street Suite 101 Miami, FL 33180
+profile_url: https://www.ewm.com/agents/2068451/Daniel+Villaraus
+image_url: https://d9la9jrhv6fdd.cloudfront.net/agentimages/nophoto.jpg
+
+name: Andrea Avaca
+license: 3407151
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 305-606-1986
+work_phone: 305-960-2400
+direct_line: 305-606-1986
+office_phone: 305-960-2400
+email: 
+website: https://andreaavaca.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/1777145/Andrea+Avaca
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1777145.jpg
+
+name: Ouidiane Bakiui
+license: 3637482
+position: REALTOR®
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 305-890-2687
+work_phone: 305-890-2687
+direct_line: 
+office_phone: 305-960-2400
+email: 
+website: https://ouidianebakiui.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/2011436/Ouidiane+Bakiui
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_2011436.jpg
+
+name: Kelly Kliewer
+license: 3247905
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Aventura
+cell: 404-956-6799
+work_phone: 954-306-7400
+direct_line: 
+office_phone: 305-329-4900
+email: 
+website: https://kellykliewer.ewm.com
+address: 2750 NE 185th Street Suite 101 Miami, FL 33180
+profile_url: https://www.ewm.com/agents/1777225/Kelly+Kliewer
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1777225.jpg
+
+name: Martha Magallanes
+license: 3645547
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Key Biscayne
+cell: 786-864-9499
+work_phone: 305-960-5350
+direct_line: 
+office_phone: 305-960-5350
+email: 
+website: https://marthamagallanes.ewm.com
+address: 644 Crandon Boulevard Miami, FL 33149
+profile_url: https://www.ewm.com/agents/2034464/Martha+Magallanes
+image_url: https://d9la9jrhv6fdd.cloudfront.net/agentimages/nophoto.jpg
+
+name: Colin Berger
+license: 3615123
+position: REALTOR® Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Aventura
+cell: 954-400-0954
+work_phone: 305-329-4900
+direct_line: 
+office_phone: 305-329-4900
+email: 
+website: https://colinberger.ewm.com
+address: 2750 NE 185th Street Suite 101 Miami, FL 33180
+profile_url: https://www.ewm.com/agents/1871177/Colin+Berger
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1871177.jpg
+
+name: Yohanys Ramos
+license: 3180489
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 305-302-2773
+work_phone: 305-302-2773
+direct_line: 305-302-2773
+office_phone: 305-960-2400
+email: 
+website: https://YohanysRamos.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/1637582/Yohanys+Ramos
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1637582.jpg
+
+name: Gasper Mavric
+license: 3404935
+position: Commercial Real Estate Specialist
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 305-747-3735
+work_phone: 305-960-2400
+direct_line: 305-747-3735
+office_phone: 305-960-2400
+email: 
+website: https://gaspermavric.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/1777274/Gasper+Mavric
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1777274.jpg
+
+name: Florencia Moni
+license: 3115662
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Key Biscayne
+cell: 786-200-4867
+work_phone: 786-200-4867
+direct_line: 786-200-4867
+office_phone: 305-960-5350
+email: 
+website: https://florenciamoni.ewm.com
+address: 644 Crandon Boulevard Miami, FL 33149
+profile_url: https://www.ewm.com/agents/1857003/Florencia+Moni
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1857003.jpg
+
+name: Jailene Hernandez
+license: 3631831
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 305-812-1835
+work_phone: 305-960-2400
+direct_line: 
+office_phone: 305-960-2400
+email: 
+website: https://jailenehernandez.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/1977402/Jailene+Hernandez
+image_url: https://d9la9jrhv6fdd.cloudfront.net/agentimages/nophoto.jpg
+
+name: Natalia Leal
+license: 3651457
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 786-281-1379
+work_phone: 305-960-2400
+direct_line: 
+office_phone: 305-960-2400
+email: 
+website: https://natalialeal.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/2053232/Natalia+Leal
+image_url: https://d9la9jrhv6fdd.cloudfront.net/agentimages/nophoto.jpg
+
+name: Florencia Loyola
+license: 3287110
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Key Biscayne
+cell: 305-491-7090
+work_phone: 305-960-5350
+direct_line: 305-491-7090
+office_phone: 305-960-5350
+email: 
+website: https://florencialoyola.ewm.com
+address: 644 Crandon Boulevard Miami, FL 33149
+profile_url: https://www.ewm.com/agents/1776859/Florencia+Loyola
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1776859.jpg
+
+name: Luis Fernandez
+license: 0593695
+position: Associate Broker
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 786-376-3161
+work_phone: 786-376-3161
+direct_line: 786-376-3161
+office_phone: 305-960-2400
+email: 
+website: https://luisfernandez.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/1802152/Luis+Fernandez
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1802152.jpg
+
+name: Elena Kemper
+license: 0342833
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 305-799-1184
+work_phone: 305-960-2400
+direct_line: 305-799-1184
+office_phone: 305-960-2400
+email: 
+website: https://elenakemper.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/1777096/Elena+Kemper
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1777096.jpg
+
+name: Luisa Cabrera Mendoza, P. A.
+license: 584765
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 305-773-8748
+work_phone: 305-960-5385
+direct_line: 305-773-8748
+office_phone: 305-960-2400
+email: 
+website: https://luisamendoza.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/1776995/Luisa+Cabrera+Mendoza%2C+P.+A.
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1776995.jpg
+
+name: Paula Barreto
+license: 3257320
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Key Biscayne
+cell: 305-915-6101
+work_phone: 305-361-5600
+direct_line: 305-915-6101
+office_phone: 305-960-5350
+email: 
+website: https://paula.ewm.com
+address: 644 Crandon Boulevard Miami, FL 33149
+profile_url: https://www.ewm.com/agents/1776779/Paula+Barreto
+image_url: https://d9la9jrhv6fdd.cloudfront.net/agentimages/nophoto.jpg
+
+name: Encina Neira
+license: 3239310
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Key Biscayne
+cell: 305-613-7173
+work_phone: 305-960-5350
+direct_line: 305-613-7173
+office_phone: 305-960-5350
+email: 
+website: https://encina-neira.ewm.com
+address: 644 Crandon Boulevard Miami, FL 33149
+profile_url: https://www.ewm.com/agents/1808934/Encina+Neira
+image_url: https://d9la9jrhv6fdd.cloudfront.net/agentimages/nophoto.jpg
+
+name: Norma Luaces
+license: 
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 305-322-2782
+work_phone: 305-322-2782
+direct_line: 305-322-2782
+office_phone: 305-960-2400
+email: 
+website: https://normaluaces.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/1637604/Norma+Luaces
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1637604.jpg
+
+name: Maria De La Rosa
+license: 3485429
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 305-338-2784
+work_phone: 305-960-2400
+direct_line: 305-338-2784
+office_phone: 305-960-2400
+email: 
+website: https://mariadelarosa.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/1777056/Maria+De+La+Rosa
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1777056.jpg
+
+name: Nayla Benitez
+license: 0673434
+position: Associate Broker
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 786-853-2333
+work_phone: 305-329-7600
+direct_line: 786-853-2333
+office_phone: 305-960-2400
+email: 
+website: https://nayla.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/1777174/Nayla+Benitez
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1777174.jpg
+
+name: Emilio Cabrera
+license: 669976
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 786-301-2041
+work_phone: 786-301-2041
+direct_line: 786-301-2041
+office_phone: 305-960-2400
+email: 
+website: https://EmilioCabrera.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/1637594/Emilio+Cabrera
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1637594.jpg
+
+name: Vicki Restivo
+license: 3184033
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 305-793-1365
+work_phone: 305-960-2400
+direct_line: 305-793-1365
+office_phone: 305-960-2400
+email: 
+website: https://vickirestivo.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/1777084/Vicki+Restivo
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1777084.jpg
+
+name: Lori Maltz
+license: 3361486
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Aventura
+cell: 305-710-9441
+work_phone: 305-329-4900
+direct_line: 305-710-9441
+office_phone: 305-329-4900
+email: 
+website: https://lorimaltz.ewm.com
+address: 2750 NE 185th Street Suite 101 Miami, FL 33180
+profile_url: https://www.ewm.com/agents/1998451/Lori+Maltz
+image_url: https://d9la9jrhv6fdd.cloudfront.net/agentimages/nophoto.jpg
+
+name: Mariela Teresa Valdez
+license: 3278990
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Key Biscayne
+cell: 305-775-5043
+work_phone: 305-960-5350
+direct_line: 305-775-5043
+office_phone: 305-960-5350
+email: 
+website: https://marielateresavaldez.ewm.com
+address: 644 Crandon Boulevard Miami, FL 33149
+profile_url: https://www.ewm.com/agents/1776812/Mariela+Teresa+Valdez
+image_url: https://d9la9jrhv6fdd.cloudfront.net/agentimages/nophoto.jpg
+
+name: Nicolas Jean Francois Boucher, P.A.
+license: 0697698
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 305-788-8035
+work_phone: 305-960-2400
+direct_line: 305-788-8035
+office_phone: 305-960-2400
+email: 
+website: https://nicolas.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/1777256/Nicolas+Jean+Francois+Boucher%2C+P.A.
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1777256.jpg
+
+name: Alfonso Gomez
+license: 3554302
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Key Biscayne
+cell: 305-898-6769
+work_phone: 305-361-5600
+direct_line: 
+office_phone: 305-960-5350
+email: 
+website: https://alfonsogomez.ewm.com
+address: 644 Crandon Boulevard Miami, FL 33149
+profile_url: https://www.ewm.com/agents/1776852/Alfonso+Gomez
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1776852.jpg
+
+name: Wendy Armstrong
+license: 606366
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 305-710-4383
+work_phone: 305-960-2400
+direct_line: 305-710-4383
+office_phone: 305-960-2400
+email: 
+website: https://wendyarmstrong.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/1776980/Wendy+Armstrong
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1776980.jpg
+
+name: Regina Estevez
+license: 
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 786-853-9188
+work_phone: 786-853-9188
+direct_line: 786-853-9188
+office_phone: 305-960-2400
+email: 
+website: https://ReginaEstevez.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/1637580/Regina+Estevez
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1637580.jpg
+
+name: Rosella Garcia Moreno
+license: 0644541
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Key Biscayne
+cell: 786-201-2121
+work_phone: 786-201-2121
+direct_line: 
+office_phone: 305-960-5350
+email: 
+website: https://rosellagarciamoreno.ewm.com
+address: 644 Crandon Boulevard Miami, FL 33149
+profile_url: https://www.ewm.com/agents/1776839/Rosella+Garcia+Moreno
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1776839.jpg
+
+name: Maria Kakouris Somoza
+license: 565225
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 305-607-5585
+work_phone: 305-960-2400
+direct_line: 305-607-5585
+office_phone: 305-960-2400
+email: 
+website: https://mariakakourissomoza.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/1777125/Maria+Kakouris+Somoza
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1777125.jpg
+
+name: Ivy Carneiro da Cunha
+license: 0486291
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 305-951-4345
+work_phone: 305-960-2400
+direct_line: 305-951-4345
+office_phone: 305-960-2400
+email: 
+website: https://ivycarneirodacunha.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/1779429/Ivy+Carneiro+da+Cunha
+image_url: https://d9la9jrhv6fdd.cloudfront.net/agentimages/nophoto.jpg
+
+name: Marilyn Borroto
+license: 3263964
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Key Biscayne
+cell: 305-979-7510
+work_phone: 305-361-5600
+direct_line: 305-979-7510
+office_phone: 305-960-5350
+email: 
+website: https://marilynborroto.ewm.com
+address: 644 Crandon Boulevard Miami, FL 33149
+profile_url: https://www.ewm.com/agents/1776778/Marilyn+Borroto
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1776778.jpg
+
+name: Vanessa Kayes
+license: 3311576
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 305-301-9297
+work_phone: 305-301-9297
+direct_line: 305-301-9297
+office_phone: 305-960-2400
+email: 
+website: https://van.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/1777029/Vanessa+Kayes
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1777029.jpg
+
+name: Nick Moskol
+license: 0593914
+position: VP | Managing Broker
+office: Berkshire Hathaway HomeServices EWM Realty - Aventura
+cell: 954-404-0103
+work_phone: 305-329-4900
+direct_line: 954-404-0103
+office_phone: 305-329-4900
+email: 
+website: https://nick.ewm.com
+address: 2750 NE 185th Street Suite 101 Miami, FL 33180
+profile_url: https://www.ewm.com/agents/1776726/Nick+Moskol
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1776726.jpg
+
+name: Lindsay Michie
+license: 3578879
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Aventura
+cell: 
+work_phone: 908-256-3144
+direct_line: 
+office_phone: 305-329-4900
+email: 
+website: https://lindsaymichie.ewm.com
+address: 2750 NE 185th Street Suite 101 Miami, FL 33180
+profile_url: https://www.ewm.com/agents/1810459/Lindsay+Michie
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1810459.jpg
+
+name: Libsen Rodriguez Gabaldon
+license: 3356776
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Key Biscayne
+cell: 305-767-6506
+work_phone: 305-361-5600
+direct_line: 305-767-6506
+office_phone: 305-960-5350
+email: 
+website: https://libsenrodriguez.ewm.com
+address: 644 Crandon Boulevard Miami, FL 33149
+profile_url: https://www.ewm.com/agents/1776817/Libsen+Rodriguez+Gabaldon
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1776817.jpg
+
+name: Drew Thomas
+license: 3411684
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 917-207-1134
+work_phone: 305-960-2400
+direct_line: 917-207-1134
+office_phone: 305-960-2400
+email: 
+website: https://drew-thomas.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/1808952/Drew+Thomas
+image_url: https://d9la9jrhv6fdd.cloudfront.net/agentimages/nophoto.jpg
+
+name: Rita Freixas Daly
+license: 3278806
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 305-205-7521
+work_phone: 305-960-2400
+direct_line: 305-205-7521
+office_phone: 305-960-2400
+email: 
+website: https://ritadaly.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/1777093/Rita+Freixas+Daly
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1777093.jpg
+
+name: Jack White
+license: 3481371
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 218-760-2859
+work_phone: 305-960-2400
+direct_line: 
+office_phone: 305-960-2400
+email: 
+website: https://jackwhite.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/1777182/Jack+White
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1777182.jpg
+
+name: Nicolas Larsen
+license: 3144636
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Miami Beach
+cell: 305-333-3659
+work_phone: 305-674-4000
+direct_line: 
+office_phone: 305-674-4000
+email: 
+website: https://nicolaslarson.ewm.com
+address: 419 West 41st Street Miami, FL 33140
+profile_url: https://www.ewm.com/agents/1776914/Nicolas+Larsen
+image_url: https://d9la9jrhv6fdd.cloudfront.net/agentimages/nophoto.jpg
+
+name: Ashley Cusack
+license: 0578555
+position: Broker Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 305-798-8685
+work_phone: 305-960-2400
+direct_line: 305-798-8685
+office_phone: 305-960-2400
+email: 
+website: https://ashleycusack.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/1777026/Ashley+Cusack
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1777026.jpg
+
+name: Maria C Betancourt
+license: 3136193
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Key Biscayne
+cell: 786-356-2600
+work_phone: 305-960-5350
+direct_line: 786-356-2600
+office_phone: 305-960-5350
+email: 
+website: https://corinabetancourt.ewm.com
+address: 644 Crandon Boulevard Miami, FL 33149
+profile_url: https://www.ewm.com/agents/1776775/Maria+C+Betancourt
+image_url: https://d9la9jrhv6fdd.cloudfront.net/agentimages/nophoto.jpg
+
+name: Sarahy Yanez
+license: 3454185
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 786-314-1721
+work_phone: 305-960-2400
+direct_line: 
+office_phone: 305-960-2400
+email: 
+website: https://sarahyyanez.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/2095268/Sarahy+Yanez
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_2095268.jpg
+
+name: Alexandra Silva
+license: 
+position: Real Estate Advisor
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 305-793-9747
+work_phone: 305-793-9747
+direct_line: 
+office_phone: 305-960-2400
+email: 
+website: https://asilva.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/1777278/Alexandra+Silva
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1777278.jpg
+
+name: Maria Mejia
+license: 
+position: Staff
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 305-986-2804
+work_phone: 305-960-2515
+direct_line: 
+office_phone: 305-960-2500
+email: 
+website: https://mariamejia.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/1776759/Maria+Mejia
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1776759.jpg
+
+name: Yumi Yazawa
+license: 3236883
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 305-519-3260
+work_phone: 305-960-2400
+direct_line: 
+office_phone: 305-960-2400
+email: 
+website: https://yumiyazawa.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/2072268/Yumi+Yazawa
+image_url: https://d9la9jrhv6fdd.cloudfront.net/agentimages/nophoto.jpg
+
+name: Michael David Warshower
+license: 3400147
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Miami Beach
+cell: 786-367-5305
+work_phone: 786-367-5305
+direct_line: 786-367-5305
+office_phone: 305-674-4000
+email: 
+website: https://michaeldavidwarshower.ewm.com
+address: 419 West 41st Street Miami, FL 33140
+profile_url: https://www.ewm.com/agents/1776864/Michael+David+Warshower
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1776864.jpg
+
+name: Rebeca Reiner
+license: 694781
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Aventura
+cell: 305-495-4243
+work_phone: 305-329-4900
+direct_line: 305-495-4243
+office_phone: 305-329-4900
+email: 
+website: https://rebecareiner.ewm.com
+address: 2750 NE 185th Street Suite 101 Miami, FL 33180
+profile_url: https://www.ewm.com/agents/1776745/Rebeca+Reiner
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1776745.jpg
+
+name: Marta Garcia-Hirschfeld
+license: 3634105
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Key Biscayne
+cell: 832-929-7628
+work_phone: 305-960-5350
+direct_line: 
+office_phone: 305-960-5350
+email: 
+website: https://martagarciahirschfeld.ewm.com
+address: 644 Crandon Boulevard Miami, FL 33149
+profile_url: https://www.ewm.com/agents/1981099/Marta+Garcia-Hirschfeld
+image_url: https://d9la9jrhv6fdd.cloudfront.net/agentimages/nophoto.jpg
+
+name: Silvia Prado
+license: 3632238
+position: Luxury Collection Specialist
+office: Berkshire Hathaway HomeServices EWM Realty - Miami Beach
+cell: 305-505-4793
+work_phone: 305-674-4000
+direct_line: 
+office_phone: 305-674-4000
+email: 
+website: https://silvia-prado.ewm.com
+address: 419 West 41st Street Miami, FL 33140
+profile_url: https://www.ewm.com/agents/1973456/Silvia+Prado
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1973456.jpg
+
+name: Josefina M. De Varona, PA
+license: 3510305
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 305-283-3051
+work_phone: 305-283-3051
+direct_line: 
+office_phone: 305-960-2400
+email: 
+website: https://josefinadevarona.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/1777097/Josefina+M.+De+Varona%2C+PA
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1777097.jpg
+
+name: Jose Rivero
+license: 0661904
+position: REALTOR®
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 786-758-7073
+work_phone: 305-960-2400
+direct_line: 
+office_phone: 305-960-2400
+email: 
+website: https://joserivero.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/2088886/Jose+Rivero
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_2088886.jpg
+
+name: Vanessa Gamberini
+license: 3460992
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 305-632-6592
+work_phone: 305-960-2400
+direct_line: 305-632-6592
+office_phone: 305-960-2400
+email: 
+website: https://vanessagamberini.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/1777053/Vanessa+Gamberini
+image_url: https://d9la9jrhv6fdd.cloudfront.net/agentimages/nophoto.jpg
+
+name: Amanda Letteri
+license: 3379375
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Miami Beach
+cell: 727-505-7484
+work_phone: 305-674-4000
+direct_line: 305-674-4000
+office_phone: 305-674-4000
+email: 
+website: https://amandaletteri.ewm.com
+address: 419 West 41st Street Miami, FL 33140
+profile_url: https://www.ewm.com/agents/1776865/Amanda+Letteri
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1776865.jpg
+
+name: Liza Mendez
+license: 0242946
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 305-992-5145
+work_phone: 305-992-5145
+direct_line: 305-992-5145
+office_phone: 305-960-2400
+email: 
+website: https://lizamendez.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/1776994/Liza+Mendez
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1776994.jpg
+
+name: James Martin Wheeler
+license: 3390898
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 954-448-1645
+work_phone: 305-960-2400
+direct_line: 954-448-1645
+office_phone: 305-960-2400
+email: 
+website: https://james.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/1777139/James+Martin+Wheeler
+image_url: https://d9la9jrhv6fdd.cloudfront.net/agentimages/nophoto.jpg
+
+name: Terri Dominguez
+license: 552282
+position: Senior Associate Broker
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 305-898-7028
+work_phone: 305-898-7028
+direct_line: 305-898-7028
+office_phone: 305-960-2400
+email: 
+website: https://TerriDominguez.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/1637537/Terri+Dominguez
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1637537.jpg
+
+name: Jenaya Kent
+license: 3622386
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Key Biscayne
+cell: 415-828-7010
+work_phone: 305-960-5350
+direct_line: 
+office_phone: 305-960-5350
+email: 
+website: https://jenayakent.ewm.com
+address: 644 Crandon Boulevard Miami, FL 33149
+profile_url: https://www.ewm.com/agents/1897817/Jenaya+Kent
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1897817.jpg
+
+name: Francesca Capua
+license: 3550680
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Key Biscayne
+cell: 786-499-5673
+work_phone: 305-960-5350
+direct_line: 
+office_phone: 305-960-5350
+email: 
+website: https://francescacapua.ewm.com
+address: 644 Crandon Boulevard Miami, FL 33149
+profile_url: https://www.ewm.com/agents/1779432/Francesca+Capua
+image_url: https://d9la9jrhv6fdd.cloudfront.net/agentimages/nophoto.jpg
+
+name: Marta Zamorano
+license: 3516420
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 786-613-5329
+work_phone: 786-613-5329
+direct_line: 786-613-5329
+office_phone: 305-960-2400
+email: 
+website: https://martazamorano.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/1777258/Marta+Zamorano
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1777258.jpg
+
+name: Barbara Maxcy
+license: 3019534
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 305-401-6892
+work_phone: 305-960-2400
+direct_line: 305-401-6892
+office_phone: 305-960-2400
+email: 
+website: https://barbaramaxcy.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/1776963/Barbara+Maxcy
+image_url: https://d9la9jrhv6fdd.cloudfront.net/agentimages/nophoto.jpg
+
+name: Carmen B. Llano-White
+license: 702460
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Key Biscayne
+cell: 305-588-9717
+work_phone: 305-588-9717
+direct_line: 305-588-9717
+office_phone: 305-960-5350
+email: 
+website: https://carmenbllanowhite.ewm.com
+address: 644 Crandon Boulevard Miami, FL 33149
+profile_url: https://www.ewm.com/agents/1776795/Carmen+B.+Llano-White
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1776795.jpg
+
+name: Carolina Rocha
+license: 3270804
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 305-450-6533
+work_phone: 305-960-2400
+direct_line: 305-960-2400
+office_phone: 305-960-2400
+email: 
+website: https://carolinarocha.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/1777067/Carolina+Rocha
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1777067.jpg
+
+name: Scott Shuffield
+license: 3237495
+position: Senior Vice President
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 305-726-3133
+work_phone: 305-329-7782
+direct_line: 305-726-3133
+office_phone: 305-960-2400
+email: 
+website: https://scottshuffield.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/1777040/Scott+Shuffield
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1777040.jpg
+
+name: Cristina Dalmau Vorbeck
+license: 3643698
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Key Biscayne
+cell: 857-928-5368
+work_phone: 305-960-5350
+direct_line: 
+office_phone: 305-960-5350
+email: 
+website: https://cristinadalmauvorbeck.ewm.com
+address: 644 Crandon Boulevard Miami, FL 33149
+profile_url: https://www.ewm.com/agents/2061974/Cristina+Dalmau+Vorbeck
+image_url: https://d9la9jrhv6fdd.cloudfront.net/agentimages/nophoto.jpg
+
+name: Joan Ochoa
+license: 
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Aventura
+cell: 954-554-4984
+work_phone: 954-554-4984
+direct_line: 954-554-4984
+office_phone: 305-329-4900
+email: 
+website: https://joanochoa.ewm.com
+address: 2750 NE 185th Street Suite 101 Miami, FL 33180
+profile_url: https://www.ewm.com/agents/1777197/Joan+Ochoa
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1777197.jpg
+
+name: Frank Ashburn Kissel, Jr.
+license: 3164676
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 305-496-0901
+work_phone: 305-960-2400
+direct_line: 305-496-0901
+office_phone: 305-960-2400
+email: 
+website: https://frankashburnkisseljrllc.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/1776956/Frank+Ashburn+Kissel%2C+Jr.
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1776956.jpg
+
+name: Priscilla Doliveira
+license: 3387629
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Aventura
+cell: 407-409-4677
+work_phone: 305-560-5400
+direct_line: 407-409-4677
+office_phone: 305-329-4900
+email: 
+website: https://priscilladoliveira.ewm.com
+address: 2750 NE 185th Street Suite 101 Miami, FL 33180
+profile_url: https://www.ewm.com/agents/1776701/Priscilla+Doliveira
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1776701.jpg
+
+name: Claudia P. Nunez
+license: 
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Key Biscayne
+cell: 305-308-7220
+work_phone: 305-960-5350
+direct_line: 305-308-7220
+office_phone: 305-960-5350
+email: 
+website: https://claudiapnunez.ewm.com
+address: 644 Crandon Boulevard Miami, FL 33149
+profile_url: https://www.ewm.com/agents/2094820/Claudia+P.+Nunez
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_2094820.jpg
+
+name: Consuelo Stewart
+license: 3218873
+position: Broker Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 305-216-7348
+work_phone: 305-329-7780
+direct_line: 
+office_phone: 305-960-2400
+email: 
+website: https://consuelostewartpa.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/2057226/Consuelo+Stewart
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_2057226.jpg
+
+name: Sylvia G. Iriondo
+license: 0225381
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Key Biscayne
+cell: 305-934-7302
+work_phone: 305-960-5350
+direct_line: 305-934-7302
+office_phone: 305-960-5350
+email: 
+website: https://sylviagiriondo.ewm.com
+address: 644 Crandon Boulevard Miami, FL 33149
+profile_url: https://www.ewm.com/agents/1779422/Sylvia+G.+Iriondo
+image_url: https://d9la9jrhv6fdd.cloudfront.net/agentimages/nophoto.jpg
+
+name: Vanessa Mazzeo
+license: 0531536
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 305-218-3928
+work_phone: 305-960-2400
+direct_line: 305-218-3928
+office_phone: 305-960-2400
+email: 
+website: https://vanessamazzeo.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/1776965/Vanessa+Mazzeo
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1776965.jpg
+
+name: Carolina Llamozas
+license: 694229
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 305-608-7214
+work_phone: 305-608-7214
+direct_line: 305-608-7214
+office_phone: 305-960-2400
+email: 
+website: https://carolinallamozas.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/1776959/Carolina+Llamozas
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1776959.jpg
+
+name: Viviana Arboleda Staton
+license: 3458050
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Key Biscayne
+cell: 786-810-7634
+work_phone: 305-960-5350
+direct_line: 786-810-7634
+office_phone: 305-960-5350
+email: 
+website: https://vivianaarboledastaton.ewm.com
+address: 644 Crandon Boulevard Miami, FL 33149
+profile_url: https://www.ewm.com/agents/1776819/Viviana+Arboleda+Staton
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1776819.jpg
+
+name: Gregory DiCarlo
+license: 3595449
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 
+work_phone: 305-960-2400
+direct_line: 
+office_phone: 305-960-2400
+email: 
+website: https://gregorydicarlo.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/1777157/Gregory+DiCarlo
+image_url: https://d9la9jrhv6fdd.cloudfront.net/agentimages/nophoto.jpg
+
+name: Jorge Cantero
+license: 0444976
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 305-793-5197
+work_phone: 305-960-2400
+direct_line: 305-793-5197
+office_phone: 305-960-2400
+email: 
+website: https://jorgecantero.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/1777245/Jorge+Cantero
+image_url: https://d9la9jrhv6fdd.cloudfront.net/agentimages/nophoto.jpg
+
+name: Maria Jose Lucena
+license: 0414028
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Key Biscayne
+cell: 305-815-6161
+work_phone: 305-960-5350
+direct_line: 305-815-6161
+office_phone: 305-960-5350
+email: 
+website: https://marialucena.ewm.com
+address: 644 Crandon Boulevard Miami, FL 33149
+profile_url: https://www.ewm.com/agents/1776797/Maria+Jose+Lucena
+image_url: https://d9la9jrhv6fdd.cloudfront.net/agentimages/nophoto.jpg
+
+name: Michel Cutait Neto
+license: 3644371
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Key Biscayne
+cell: 786-882-4888
+work_phone: 305-960-5350
+direct_line: 786-882-4888
+office_phone: 305-960-5350
+email: 
+website: https://michelcutaitneto.ewm.com
+address: 644 Crandon Boulevard Miami, FL 33149
+profile_url: https://www.ewm.com/agents/2026468/Michel+Cutait+Neto
+image_url: https://d9la9jrhv6fdd.cloudfront.net/agentimages/nophoto.jpg
+
+name: Diego Peyon
+license: 3371872
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Aventura
+cell: 530-784-0304
+work_phone: 305-329-4900
+direct_line: 530-784-0304
+office_phone: 305-329-4900
+email: 
+website: https://diegopeyon.ewm.com
+address: 2750 NE 185th Street Suite 101 Miami, FL 33180
+profile_url: https://www.ewm.com/agents/1777264/Diego+Peyon
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1777264.jpg
+
+name: Nalisa Saati
+license: 3641822
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 786-302-5858
+work_phone: 305-960-2400
+direct_line: 
+office_phone: 305-960-2400
+email: 
+website: https://nalisasaati.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/2031944/Nalisa+Saati
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_2031944.jpg
+
+name: Parul Patel
+license: 3455658
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Aventura
+cell: 954-860-7422
+work_phone: 954-860-7422
+direct_line: 
+office_phone: 305-329-4900
+email: 
+website: https://parulpatel.ewm.com
+address: 2750 NE 185th Street Suite 101 Miami, FL 33180
+profile_url: https://www.ewm.com/agents/1776718/Parul+Patel
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1776718.jpg
+
+name: Seth Bloomgarden
+license: 3473742
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Miami Beach
+cell: 917-364-7575
+work_phone: 305-674-4000
+direct_line: 917-364-7575
+office_phone: 305-674-4000
+email: 
+website: https://sethbloomgarden.ewm.com
+address: 419 West 41st Street Miami, FL 33140
+profile_url: https://www.ewm.com/agents/1777297/Seth+Bloomgarden
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1777297.jpg
+
+name: Debra Wellins
+license: 3238097
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 305-898-1852
+work_phone: 305-960-2400
+direct_line: 305-898-1852
+office_phone: 305-960-2400
+email: 
+website: https://debrawellins.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/1777138/Debra+Wellins
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1777138.jpg
+
+name: GraphixLab plus
+license: 
+position: Associate Marketing Support
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 
+work_phone: 305-960-2500
+direct_line: 
+office_phone: 305-960-2500
+email: 
+website: https://marketing.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/1776755/GraphixLab+plus
+image_url: https://d9la9jrhv6fdd.cloudfront.net/agentimages/nophoto.jpg
+
+name: Yamilet Labiste
+license: 
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 305-322-5700
+work_phone: 305-960-2400
+direct_line: 
+office_phone: 305-960-2400
+email: 
+website: https://yamiletlabiste.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/1992917/Yamilet+Labiste
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1992917.jpg
+
+name: Nilda Rossie
+license: 3098422
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 305-301-1209
+work_phone: 305-301-1209
+direct_line: 305-301-1209
+office_phone: 305-960-2400
+email: 
+website: https://NildaRossie.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/1637572/Nilda+Rossie
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1637572.jpg
+
+name: Elizabeth Person, P.A.
+license: 0667653
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 305-345-5870
+work_phone: 305-960-2400
+direct_line: 305-345-5870
+office_phone: 305-960-2400
+email: 
+website: https://elizabethperson.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/1776927/Elizabeth+Person%2C+P.A.
+image_url: https://d9la9jrhv6fdd.cloudfront.net/agentimages/nophoto.jpg
+
+name: Melanie Robelo
+license: 634566
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 305-528-7865
+work_phone: 305-528-7865
+direct_line: 
+office_phone: 305-960-2400
+email: 
+website: https://melanierobelo.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/2014428/Melanie+Robelo
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_2014428.jpg
+
+name: Carlos Peraza
+license: 3576301
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Miami Beach
+cell: 215-280-6698
+work_phone: 305-674-4000
+direct_line: 
+office_phone: 305-674-4000
+email: 
+website: https://carlosperaza.ewm.com
+address: 419 West 41st Street Miami, FL 33140
+profile_url: https://www.ewm.com/agents/1996353/Carlos+Peraza
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1996353.jpg
+
+name: Zach Joslin
+license: 3316818
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Miami Beach
+cell: 561-222-5240
+work_phone: 561-222-5240
+direct_line: 561-222-5240
+office_phone: 305-674-4000
+email: 
+website: https://zach.ewm.com
+address: 419 West 41st Street Miami, FL 33140
+profile_url: https://www.ewm.com/agents/1777301/Zach+Joslin
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1777301.jpg
+
+name: Ana Lucia Williams
+license: 3318086
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 305-905-7296
+work_phone: 305-960-2400
+direct_line: 305-905-7296
+office_phone: 305-960-2400
+email: 
+website: https://anawilliams.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/1777135/Ana+Lucia+Williams
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1777135.jpg
+
+name: Lucero McCormick
+license: 3416627
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 954-789-0592
+work_phone: 305-960-2400
+direct_line: 
+office_phone: 305-960-2400
+email: 
+website: https://luceromccormick.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/1776940/Lucero+McCormick
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1776940.jpg
+
+name: Vera Quesada
+license: 3273066
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 786-553-5793
+work_phone: 305-960-2400
+direct_line: 786-553-5793
+office_phone: 305-960-2400
+email: 
+website: https://vera.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/1776937/Vera+Quesada
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1776937.jpg
+
+name: Shelby Pruna
+license: 
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 
+work_phone: 305-960-2500
+direct_line: 
+office_phone: 305-960-2500
+email: 
+website: https://shelbypruna.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/1885172/Shelby+Pruna
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1885172.jpg
+
+name: Ruth Puig-Smith
+license: 3574964
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 718-541-1284
+work_phone: 305-960-2400
+direct_line: 
+office_phone: 305-960-2400
+email: 
+website: https://ruthpuigsmith.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/1776977/Ruth+Puig-Smith
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1776977.jpg
+
+name: Juliana Perez
+license: 
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 305-796-3984
+work_phone: 305-796-3984
+direct_line: 305-796-3984
+office_phone: 305-960-2400
+email: 
+website: https://JulianaPerez.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/1637589/Juliana+Perez
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1637589.jpg
+
+name: Robert Cachinero
+license: 3381540
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Miami Beach
+cell: 786-417-4713
+work_phone: 305-674-4043
+direct_line: 786-417-4713
+office_phone: 305-674-4000
+email: 
+website: https://robertcachinero.ewm.com
+address: 419 West 41st Street Miami, FL 33140
+profile_url: https://www.ewm.com/agents/1776897/Robert+Cachinero
+image_url: https://hsfazpw2storagesf1.blob.core.windows.net/hsflibrary/bhhsagents/1119166/profileimages/1119166-profileimage.jpg
+
+name: Denise M Barnard
+license: 
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 305-812-7787
+work_phone: 305-960-2600
+direct_line: 305-812-7787
+office_phone: 305-960-2400
+email: 
+website: https://denisembarnard.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/2018000/Denise+M+Barnard
+image_url: https://d9la9jrhv6fdd.cloudfront.net/agentimages/nophoto.jpg
+
+name: Melany Naranjo
+license: 3622557
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Aventura
+cell: 954-654-4732
+work_phone: 305-329-4900
+direct_line: 
+office_phone: 305-329-4900
+email: 
+website: https://melanynaranjo.ewm.com
+address: 2750 NE 185th Street Suite 101 Miami, FL 33180
+profile_url: https://www.ewm.com/agents/2012457/Melany+Naranjo
+image_url: https://d9la9jrhv6fdd.cloudfront.net/agentimages/nophoto.jpg
+
+name: Juanita Lopez
+license: 3382934
+position: Luxury Collection Specialist
+office: Berkshire Hathaway HomeServices EWM Realty - Key Biscayne
+cell: 305-803-4891
+work_phone: 305-960-5350
+direct_line: 305-803-4891
+office_phone: 305-960-5350
+email: 
+website: https://juanitalopez.ewm.com
+address: 644 Crandon Boulevard Miami, FL 33149
+profile_url: https://www.ewm.com/agents/1776796/Juanita+Lopez
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1776796.jpg
+
+name: Susana Medrano Roth
+license: 3114204
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Key Biscayne
+cell: 305-773-0809
+work_phone: 305-361-5600
+direct_line: 305-773-0809
+office_phone: 305-960-5350
+email: 
+website: https://susanamedranoroth.ewm.com
+address: 644 Crandon Boulevard Miami, FL 33149
+profile_url: https://www.ewm.com/agents/1776807/Susana+Medrano+Roth
+image_url: https://d9la9jrhv6fdd.cloudfront.net/agentimages/nophoto.jpg
+
+name: Kevin Schmidt
+license: 3461562
+position: REALTOR® Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Aventura
+cell: 202-999-6342
+work_phone: 202-999-6342
+direct_line: 202-999-6342
+office_phone: 305-329-4900
+email: 
+website: https://kevinschmidt.ewm.com
+address: 2750 NE 185th Street Suite 101 Miami, FL 33180
+profile_url: https://www.ewm.com/agents/1777221/Kevin+Schmidt
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1777221.jpg
+
+name: Dora Fisher
+license: 3448146
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 305-298-6646
+work_phone: 305-960-2400
+direct_line: 305-298-6646
+office_phone: 305-960-2400
+email: 
+website: https://dorafisher.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/1974647/Dora+Fisher
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1974647.jpg
+
+name: Iciar Oyarzun
+license: 3114022
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Key Biscayne
+cell: 305-302-2066
+work_phone: 305-960-5350
+direct_line: 305-302-2066
+office_phone: 305-960-5350
+email: 
+website: https://iciar.ewm.com
+address: 644 Crandon Boulevard Miami, FL 33149
+profile_url: https://www.ewm.com/agents/1776801/Iciar+Oyarzun
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1776801.jpg
+
+name: Saliska Saati
+license: 3658602
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 786-201-5498
+work_phone: 305-960-2400
+direct_line: 
+office_phone: 305-960-2400
+email: 
+website: https://saliskasaati.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/2078362/Saliska+Saati
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_2078362.jpg
+
+name: Janeth Alvarez
+license: 3191179
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Key Biscayne
+cell: 305-458-4124
+work_phone: 305-960-5350
+direct_line: 305-458-4124
+office_phone: 305-960-5350
+email: 
+website: https://janethalvarez.ewm.com
+address: 644 Crandon Boulevard Miami, FL 33149
+profile_url: https://www.ewm.com/agents/1776826/Janeth+Alvarez
+image_url: https://d9la9jrhv6fdd.cloudfront.net/agentimages/nophoto.jpg
+
+name: Diana Luft
+license: 3620867
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Miami Beach
+cell: 305-721-5663
+work_phone: 305-674-4000
+direct_line: 
+office_phone: 305-674-4000
+email: 
+website: https://dianaluft.ewm.com
+address: 419 West 41st Street Miami, FL 33140
+profile_url: https://www.ewm.com/agents/1860338/Diana+Luft
+image_url: https://d9la9jrhv6fdd.cloudfront.net/agentimages/nophoto.jpg
+
+name: Sarah K. Zweig, P.A.
+license: 3250611
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Miami Beach
+cell: 601-955-8574
+work_phone: 305-674-4000
+direct_line: 601-955-8574
+office_phone: 305-674-4000
+email: 
+website: https://sarahkzweigpa.ewm.com
+address: 419 West 41st Street Miami, FL 33140
+profile_url: https://www.ewm.com/agents/1776867/Sarah+K.+Zweig%2C+P.A.
+image_url: https://d9la9jrhv6fdd.cloudfront.net/agentimages/nophoto.jpg
+
+name: Diane Martinez
+license: 3346868
+position: Vice President, Managing Broker
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 786-372-2463
+work_phone: 305-960-2460
+direct_line: 
+office_phone: 305-960-2400
+email: 
+website: https://dianemartinez.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/1776962/Diane+Martinez
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1776962.jpg
+
+name: Raquel I Echevarria
+license: 3061470
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 305-300-2622
+work_phone: 305-960-2400
+direct_line: 305-300-2622
+office_phone: 305-960-2400
+email: 
+website: https://raquel.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/1777283/Raquel+I+Echevarria
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1777283.jpg
+
+name: Xiu Na Wang
+license: 
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Aventura
+cell: 407-232-0806
+work_phone: 305-329-4900
+direct_line: 407-232-0806
+office_phone: 305-329-4900
+email: 
+website: https://xiunawang.ewm.com
+address: 2750 NE 185th Street Suite 101 Miami, FL 33180
+profile_url: https://www.ewm.com/agents/2094956/Xiu+Na+Wang
+image_url: https://d9la9jrhv6fdd.cloudfront.net/agentimages/nophoto.jpg
+
+name: Nathalie Duran
+license: 3583538
+position: Luxury Collection Specialist
+office: Berkshire Hathaway HomeServices EWM Realty - Miami Beach
+cell: 786-362-8265
+work_phone: 305-674-4000
+direct_line: 
+office_phone: 305-674-4000
+email: 
+website: https://nathalieduran.ewm.com
+address: 419 West 41st Street Miami, FL 33140
+profile_url: https://www.ewm.com/agents/1844567/Nathalie+Duran
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1844567.jpg
+
+name: Kristen Markovich
+license: 3377026
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 305-613-4379
+work_phone: 305-960-2400
+direct_line: 305-613-4379
+office_phone: 305-960-2400
+email: 
+website: https://kristenmarkovich.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/1637551/Kristen+Markovich
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1637551.jpg
+
+name: Evelyn C. Skirving
+license: 3222908
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 305-431-4313
+work_phone: 305-960-2400
+direct_line: 305-431-4313
+office_phone: 305-960-2400
+email: 
+website: https://evelync-skirving.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/1856996/Evelyn+C.+Skirving
+image_url: https://d9la9jrhv6fdd.cloudfront.net/agentimages/nophoto.jpg
+
+name: Julissa Ray
+license: 3519683
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 305-989-9550
+work_phone: 305-960-2400
+direct_line: 305-960-2400
+office_phone: 305-960-2400
+email: 
+website: https://julissaray.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/1776930/Julissa+Ray
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1776930.jpg
+
+name: James Sawyer
+license: 3297970
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 305-984-9588
+work_phone: 305-984-9588
+direct_line: 305-984-9588
+office_phone: 305-960-2400
+email: 
+website: https://jas.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/1777037/James+Sawyer
+image_url: https://d9la9jrhv6fdd.cloudfront.net/agentimages/nophoto.jpg
+
+name: Esther Percal
+license: 0197819
+position: Senior Vice President
+office: Berkshire Hathaway HomeServices EWM Realty - Miami Beach
+cell: 
+work_phone: 305-674-4022
+direct_line: 305-674-4022
+office_phone: 305-674-4000
+email: 
+website: https://estherpercal.ewm.com
+address: 419 West 41st Street Miami, FL 33140
+profile_url: https://www.ewm.com/agents/1776870/Esther+Percal
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1776870.jpg
+
+name: Andrea Sanso
+license: 3425653
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 305-890-2100
+work_phone: 305-890-2100
+direct_line: 
+office_phone: 305-960-2400
+email: 
+website: https://andreamasses.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/1802098/Andrea+Sanso
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1802098.jpg
+
+name: Lars Fitzgerald
+license: 0670838
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 305-989-1171
+work_phone: 305-989-1171
+direct_line: 
+office_phone: 305-960-2400
+email: 
+website: https://lars.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/1777177/Lars+Fitzgerald
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1777177.jpg
+
+name: David Aciego
+license: 
+position: Staff
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 305-960-2552
+work_phone: 305-960-2400
+direct_line: 
+office_phone: 305-960-2500
+email: 
+website: https://davidaciego.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/1829103/David+Aciego
+image_url: https://d9la9jrhv6fdd.cloudfront.net/agentimages/nophoto.jpg
+
+name: Richard Congdon
+license: 0679560
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 305-775-4534
+work_phone: 305-329-7723
+direct_line: 305-775-4534
+office_phone: 305-960-2400
+email: 
+website: https://richardcongdon.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/1777023/Richard+Congdon
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1777023.jpg
+
+name: Shane Ives
+license: 3609329
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Miami Beach
+cell: 619-892-1134
+work_phone: 305-674-4000
+direct_line: 
+office_phone: 305-674-4000
+email: 
+website: https://shaneives.ewm.com
+address: 419 West 41st Street Miami, FL 33140
+profile_url: https://www.ewm.com/agents/1826656/Shane+Ives
+image_url: https://d9la9jrhv6fdd.cloudfront.net/agentimages/nophoto.jpg
+
+name: Ximena Ulloa
+license: 3477490
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Key Biscayne
+cell: 305-812-6794
+work_phone: 305-960-5350
+direct_line: 305-812-6794
+office_phone: 305-960-5350
+email: 
+website: https://ximenaulloa.ewm.com
+address: 644 Crandon Boulevard Miami, FL 33149
+profile_url: https://www.ewm.com/agents/1776829/Ximena+Ulloa
+image_url: https://d9la9jrhv6fdd.cloudfront.net/agentimages/nophoto.jpg
+
+name: Saad Mahmoud
+license: 3592417
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Miami Beach
+cell: 954-444-6741
+work_phone: 305-674-4000
+direct_line: 
+office_phone: 305-674-4000
+email: 
+website: https://saadmahmoud.ewm.com
+address: 419 West 41st Street Miami, FL 33140
+profile_url: https://www.ewm.com/agents/1776917/Saad+Mahmoud
+image_url: https://d9la9jrhv6fdd.cloudfront.net/agentimages/nophoto.jpg
+
+name: Belkis Jorge
+license: 3052875
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Miami Beach
+cell: 305-303-4112
+work_phone: 305-674-4000
+direct_line: 305-303-4112
+office_phone: 305-674-4000
+email: 
+website: https://belkisjorge.ewm.com
+address: 419 West 41st Street Miami, FL 33140
+profile_url: https://www.ewm.com/agents/2039232/Belkis+Jorge
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_2039232.jpg
+
+name: Angela Langlois
+license: 0417712
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Key Biscayne
+cell: 305-205-5522
+work_phone: 305-960-5350
+direct_line: 305-205-5522
+office_phone: 305-960-5350
+email: 
+website: https://angelalanglois.ewm.com
+address: 644 Crandon Boulevard Miami, FL 33149
+profile_url: https://www.ewm.com/agents/1776794/Angela+Langlois
+image_url: https://d9la9jrhv6fdd.cloudfront.net/agentimages/nophoto.jpg
+
+name: Pavel Sirotin
+license: 3665213
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Miami Beach
+cell: 415-290-3699
+work_phone: 305-674-4000
+direct_line: 
+office_phone: 305-674-4000
+email: 
+website: https://pavelsirotin.ewm.com
+address: 419 West 41st Street Miami, FL 33140
+profile_url: https://www.ewm.com/agents/2103049/Pavel+Sirotin
+image_url: https://d9la9jrhv6fdd.cloudfront.net/agentimages/nophoto.jpg
+
+name: Lilia Naar
+license: 0531307
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 305-582-3017
+work_phone: 305-960-2400
+direct_line: 305-582-3017
+office_phone: 305-960-2400
+email: 
+website: https://lilianaar.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/1777275/Lilia+Naar
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1777275.jpg
+
+name: Jill Marvel
+license: 3455052
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 305-318-3842
+work_phone: 305-960-2400
+direct_line: 305-960-2400
+office_phone: 305-960-2400
+email: 
+website: https://jillmarvel.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/1777172/Jill+Marvel
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1777172.jpg
+
+name: Kenny Raymond
+license: 
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Miami Beach
+cell: 786-443-9649
+work_phone: 786-443-9649
+direct_line: 786-443-9649
+office_phone: 305-674-4000
+email: 
+website: https://kennyraymond.ewm.com
+address: 419 West 41st Street Miami, FL 33140
+profile_url: https://www.ewm.com/agents/1777289/Kenny+Raymond
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1777289.jpg
+
+name: Jose Isaza
+license: 3533494
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 786-389-0309
+work_phone: 305-960-2400
+direct_line: 
+office_phone: 305-960-2400
+email: 
+website: https://joseisaza.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/1777286/Jose+Isaza
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1777286.jpg
+
+name: Zoila Patterson
+license: 
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Aventura
+cell: 305-323-3193
+work_phone: 305-329-4900
+direct_line: 305-323-3193
+office_phone: 305-329-4900
+email: 
+website: https://zoilapatterson.ewm.com
+address: 2750 NE 185th Street Suite 101 Miami, FL 33180
+profile_url: https://www.ewm.com/agents/2094968/Zoila+Patterson
+image_url: https://d9la9jrhv6fdd.cloudfront.net/agentimages/nophoto.jpg
+
+name: Daysi Morey
+license: 648464
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 305-773-7883
+work_phone: 305-773-7883
+direct_line: 305-773-7883
+office_phone: 305-960-2400
+email: 
+website: https://DaysiMoreyfl.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/1637541/Daysi+Morey
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1637541.jpg
+
+name: Brian Smith
+license: 3401552
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Miami Beach
+cell: 305-318-8200
+work_phone: 305-318-8200
+direct_line: 305-318-8200
+office_phone: 305-674-4000
+email: 
+website: https://briansmith.ewm.com
+address: 419 West 41st Street Miami, FL 33140
+profile_url: https://www.ewm.com/agents/1776873/Brian+Smith
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1776873.jpg
+
+name: Gabriela Morales
+license: 3638600
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Key Biscayne
+cell: 786-201-5236
+work_phone: 305-960-5350
+direct_line: 
+office_phone: 305-960-5350
+email: 
+website: https://gabrielamorales.ewm.com
+address: 644 Crandon Boulevard Miami, FL 33149
+profile_url: https://www.ewm.com/agents/1996328/Gabriela+Morales
+image_url: https://d9la9jrhv6fdd.cloudfront.net/agentimages/nophoto.jpg
+
+name: Allison T. Turk
+license: 3119037
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Miami Beach
+cell: 305-450-7965
+work_phone: 305-674-4120
+direct_line: 305-450-7965
+office_phone: 305-674-4000
+email: 
+website: https://allisonturk.ewm.com
+address: 419 West 41st Street Miami, FL 33140
+profile_url: https://www.ewm.com/agents/1777303/Allison+T.+Turk
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1777303.jpg
+
+name: Annette Antorcha
+license: 3541452
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 305-498-8044
+work_phone: 305-498-8044
+direct_line: 
+office_phone: 305-960-2400
+email: 
+website: https://annetteantorcha.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/1777158/Annette+Antorcha
+image_url: https://d9la9jrhv6fdd.cloudfront.net/agentimages/nophoto.jpg
+
+name: Evelyn TRINIDAD, MS, REALTOR
+license: 3282435
+position: Broker Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Miami Beach
+cell: 305-988-8541
+work_phone: 305-674-4000
+direct_line: 305-988-8541
+office_phone: 305-674-4000
+email: 
+website: https://evelyntrinidad.ewm.com
+address: 419 West 41st Street Miami, FL 33140
+profile_url: https://www.ewm.com/agents/1776905/Evelyn+TRINIDAD%2C+MS%2C+REALTOR
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1776905.jpg
+
+name: Lindsay McMinn
+license: 3411679
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 305-769-8465
+work_phone: 305-960-2400
+direct_line: 305-769-8465
+office_phone: 305-960-2400
+email: 
+website: https://lindsaymcminn.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/1776966/Lindsay+McMinn
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1776966.jpg
+
+name: Chris Johnston
+license: 3279375
+position: Realtor®
+office: Berkshire Hathaway HomeServices EWM Realty - Aventura
+cell: 786-584-2755
+work_phone: 786-309-2980
+direct_line: 786-309-2980
+office_phone: 305-329-4900
+email: 
+website: https://chrisjohnston.ewm.com
+address: 2750 NE 185th Street Suite 101 Miami, FL 33180
+profile_url: https://www.ewm.com/agents/1776703/Chris+Johnston
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1776703.jpg
+
+name: L. Rocio Piedrahita
+license: 0524990
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 305-962-2202
+work_phone: 305-960-2400
+direct_line: 305-962-2202
+office_phone: 305-960-2400
+email: 
+website: https://liliapiedrahita.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/1779445/L.+Rocio+Piedrahita
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1779445.jpg
+
+name: Carmen Marquez-Kahn
+license: 571367
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 305-479-6196
+work_phone: 305-271-4350
+direct_line: 305-479-6196
+office_phone: 305-960-2400
+email: 
+website: https://CarmenMarquezKahn.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/1637608/Carmen+Marquez-Kahn
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1637608.jpg
+
+name: Valerie Hummel
+license: 3312920
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Key Biscayne
+cell: 305-606-7050
+work_phone: 305-960-5350
+direct_line: 305-606-7050
+office_phone: 305-960-5350
+email: 
+website: https://valeriehummel.ewm.com
+address: 644 Crandon Boulevard Miami, FL 33149
+profile_url: https://www.ewm.com/agents/1776793/Valerie+Hummel
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1776793.jpg
+
+name: Susan Debra Cohen
+license: 0670014
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Aventura
+cell: 786-512-5224
+work_phone: 305-329-4900
+direct_line: 786-512-5224
+office_phone: 305-329-4900
+email: 
+website: https://susandebracohen.ewm.com
+address: 2750 NE 185th Street Suite 101 Miami, FL 33180
+profile_url: https://www.ewm.com/agents/1776733/Susan+Debra+Cohen
+image_url: https://d9la9jrhv6fdd.cloudfront.net/agentimages/nophoto.jpg
+
+name: Silvano F. Gonzalez, CRS, GRI
+license: 0702438
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 305-632-3423
+work_phone: 305-329-7739
+direct_line: 305-632-3423
+office_phone: 305-960-2400
+email: 
+website: https://silvanogonzalez.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/1777000/Silvano+F.+Gonzalez%2C+CRS%2C+GRI
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1777000.jpg
+
+name: Cheyenne Wright
+license: 3623628
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Miami Beach
+cell: 484-554-1967
+work_phone: 305-674-4000
+direct_line: 
+office_phone: 305-674-4000
+email: 
+website: https://cheyennewright.ewm.com
+address: 419 West 41st Street Miami, FL 33140
+profile_url: https://www.ewm.com/agents/1947411/Cheyenne+Wright
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1947411.jpg
+
+name: Alina Gonzalez
+license: 0647663
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 305-793-8251
+work_phone: 305-793-8251
+direct_line: 305-793-8251
+office_phone: 305-960-2400
+email: 
+website: https://alinagonzalez.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/1777001/Alina+Gonzalez
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1777001.jpg
+
+name: Melanie Zargham
+license: 3448661
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 305-775-0794
+work_phone: 305-960-2400
+direct_line: 305-775-0794
+office_phone: 305-960-2400
+email: 
+website: https://melaniezargham.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/1777176/Melanie+Zargham
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1777176.jpg
+
+name: Michael Siekierski
+license: 3285959
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Aventura
+cell: 954-448-6350
+work_phone: 305-932-6122
+direct_line: 954-448-6350
+office_phone: 305-329-4900
+email: 
+website: https://michaelsiekierski.ewm.com
+address: 2750 NE 185th Street Suite 101 Miami, FL 33180
+profile_url: https://www.ewm.com/agents/1776725/Michael+Siekierski
+image_url: https://d9la9jrhv6fdd.cloudfront.net/agentimages/nophoto.jpg
+
+name: Deanna Carlson
+license: 3661339
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Miami Beach
+cell: 305-710-4049
+work_phone: 305-674-4000
+direct_line: 
+office_phone: 305-674-4000
+email: 
+website: https://deannacarlson.ewm.com
+address: 419 West 41st Street Miami, FL 33140
+profile_url: https://www.ewm.com/agents/2098275/Deanna+Carlson
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_2098275.jpg
+
+name: Marjori Rodriguez
+license: 3570338
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 305-902-8662
+work_phone: 305-960-5300
+direct_line: 
+office_phone: 305-960-2400
+email: 
+website: https://marjorirodriguez.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/1777128/Marjori+Rodriguez
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1777128.jpg
+
+name: Ben Brissi
+license: 3288847
+position: Broker Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Miami Beach
+cell: 561-870-2211
+work_phone: 561-870-2211
+direct_line: 
+office_phone: 305-674-4000
+email: 
+website: https://benbrissi.ewm.com
+address: 419 West 41st Street Miami, FL 33140
+profile_url: https://www.ewm.com/agents/1777304/Ben+Brissi
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1777304.jpg
+
+name: Gabriel Zilban
+license: 3287780
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 305-407-5218
+work_phone: 305-960-2400
+direct_line: 305-407-5218
+office_phone: 305-960-2400
+email: 
+website: https://gabrielzilban.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/1777133/Gabriel+Zilban
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1777133.jpg
+
+name: Adolfo J. Malave
+license: 0670979
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Key Biscayne
+cell: 305-213-9962
+work_phone: 305-361-5600
+direct_line: 305-213-9962
+office_phone: 305-960-5350
+email: 
+website: https://adolfojmalave.ewm.com
+address: 644 Crandon Boulevard Miami, FL 33149
+profile_url: https://www.ewm.com/agents/1776798/Adolfo+J.+Malave
+image_url: https://d9la9jrhv6fdd.cloudfront.net/agentimages/nophoto.jpg
+
+name: Ray Kedzerski
+license: 613820
+position: Broker Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Aventura
+cell: 954-816-9697
+work_phone: 954-816-9697
+direct_line: 954-816-9697
+office_phone: 305-329-4900
+email: 
+website: https://raykedzerski.ewm.com
+address: 2750 NE 185th Street Suite 101 Miami, FL 33180
+profile_url: https://www.ewm.com/agents/1776713/Ray+Kedzerski
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1776713.jpg
+
+name: Marisa Mion Chisena
+license: 3106215
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 305-807-6845
+work_phone: 305-807-6845
+direct_line: 305-807-6845
+office_phone: 305-960-2400
+email: 
+website: https://marisamionchisena.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/1777012/Marisa+Mion+Chisena
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1777012.jpg
+
+name: Paola Zuver
+license: 3124170
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 305-962-8998
+work_phone: 305-962-8998
+direct_line: 305-962-8998
+office_phone: 305-960-2400
+email: 
+website: https://paola.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/1777143/Paola+Zuver
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1777143.jpg
+
+name: Christopher "Ray" Garcia
+license: 3645723
+position: Realtor®
+office: Berkshire Hathaway HomeServices EWM Realty - Key Biscayne
+cell: 786-271-2068
+work_phone: 305-960-5350
+direct_line: 786-271-2068
+office_phone: 305-960-5350
+email: 
+website: https://raygarcia.ewm.com
+address: 644 Crandon Boulevard Miami, FL 33149
+profile_url: https://www.ewm.com/agents/2026796/Christopher+%22Ray%22+Garcia
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_2026796.jpg
+
+name: Kathleen Apaid
+license: 3227014
+position: Real Estate Advisor
+office: Berkshire Hathaway HomeServices EWM Realty - Aventura
+cell: 305-720-7023
+work_phone: 305-329-4900
+direct_line: 305-720-7023
+office_phone: 305-329-4900
+email: 
+website: https://kathleenapaid.ewm.com
+address: 2750 NE 185th Street Suite 101 Miami, FL 33180
+profile_url: https://www.ewm.com/agents/1776737/Kathleen+Apaid
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1776737.jpg
+
+name: Mark Newman
+license: 3201405
+position: Broker Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Aventura
+cell: 561-801-2564
+work_phone: 954-849-5028
+direct_line: 561-801-2564
+office_phone: 305-329-4900
+email: 
+website: https://marknewman.ewm.com
+address: 2750 NE 185th Street Suite 101 Miami, FL 33180
+profile_url: https://www.ewm.com/agents/1777220/Mark+Newman
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1777220.jpg
+
+name: Conchita Merino
+license: 0138618
+position: Broker Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 305-322-7851
+work_phone: 305-960-2400
+direct_line: 305-322-7851
+office_phone: 305-960-2400
+email: 
+website: https://conchitamerino.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/1777080/Conchita+Merino
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1777080.jpg
+
+name: Charlotte Tomic
+license: 3357183
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Miami Beach
+cell: 917-882-5243
+work_phone: 305-674-4000
+direct_line: 917-882-5243
+office_phone: 305-674-4000
+email: 
+website: https://charlottetomic.ewm.com
+address: 419 West 41st Street Miami, FL 33140
+profile_url: https://www.ewm.com/agents/1776890/Charlotte+Tomic
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1776890.jpg
+
+name: Cherry Perez
+license: 3504158
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Key Biscayne
+cell: 786-805-8663
+work_phone: 305-960-5350
+direct_line: 
+office_phone: 305-960-5350
+email: 
+website: https://cherryperez.ewm.com
+address: 644 Crandon Boulevard Miami, FL 33149
+profile_url: https://www.ewm.com/agents/2010705/Cherry+Perez
+image_url: https://d9la9jrhv6fdd.cloudfront.net/agentimages/nophoto.jpg
+
+name: Jose Andres Bastidas Torres
+license: 3629633
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Key Biscayne
+cell: 305-776-1882
+work_phone: 305-776-1882
+direct_line: 
+office_phone: 305-960-5350
+email: 
+website: https://joseandresbastidastorres.ewm.com
+address: 644 Crandon Boulevard Miami, FL 33149
+profile_url: https://www.ewm.com/agents/1948225/Jose+Andres+Bastidas+Torres
+image_url: https://d9la9jrhv6fdd.cloudfront.net/agentimages/nophoto.jpg
+
+name: June Savage PA
+license: 3039380
+position: Global Real Estate Advisor
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 786-202-3211
+work_phone: 305-960-2400
+direct_line: 
+office_phone: 305-960-2400
+email: 
+website: https://junesavage.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/2012900/June+Savage+PA
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_2012900.jpg
+
+name: Jon Sullenberger
+license: 3417298
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 305-588-1800
+work_phone: 305-588-1800
+direct_line: 305-588-1800
+office_phone: 305-960-2400
+email: 
+website: https://jonsullenberger.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/1777089/Jon+Sullenberger
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1777089.jpg
+
+name: Mercedes Toll
+license: 0628109
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 786-351-0359
+work_phone: 305-960-2400
+direct_line: 786-351-0359
+office_phone: 305-960-2400
+email: 
+website: https://mercedestoll.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/1777091/Mercedes+Toll
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1777091.jpg
+
+name: Albert Lazaro Diaz
+license: 3383988
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 305-202-2650
+work_phone: 305-960-2400
+direct_line: 305-202-2650
+office_phone: 305-960-2400
+email: 
+website: https://albertlazarodiaz.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/1777031/Albert+Lazaro+Diaz
+image_url: https://d9la9jrhv6fdd.cloudfront.net/agentimages/nophoto.jpg
+
+name: Jennifer Perez
+license: 3302187
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Key Biscayne
+cell: 786-474-2416
+work_phone: 305-960-5350
+direct_line: 786-474-2416
+office_phone: 305-960-5350
+email: 
+website: https://jenniferperez.ewm.com
+address: 644 Crandon Boulevard Miami, FL 33149
+profile_url: https://www.ewm.com/agents/1776802/Jennifer+Perez
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1776802.jpg
+
+name: Kathryn Newton
+license: 3235320
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Miami Beach
+cell: 310-691-9472
+work_phone: 305-674-4000
+direct_line: 310-691-9472
+office_phone: 305-674-4000
+email: 
+website: https://kathrynnewton.ewm.com
+address: 419 West 41st Street Miami, FL 33140
+profile_url: https://www.ewm.com/agents/1777308/Kathryn+Newton
+image_url: https://d9la9jrhv6fdd.cloudfront.net/agentimages/nophoto.jpg
+
+name: Victoria De Giraldo
+license: 3123234
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Key Biscayne
+cell: 786-200-1288
+work_phone: 305-960-5350
+direct_line: 786-200-1288
+office_phone: 305-960-5350
+email: 
+website: https://victoriadegiraldo.ewm.com
+address: 644 Crandon Boulevard Miami, FL 33149
+profile_url: https://www.ewm.com/agents/1776782/Victoria+De+Giraldo
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1776782.jpg
+
+name: Kimberley Roberts
+license: 3401895
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Aventura
+cell: 
+work_phone: 786-757-8343
+direct_line: 786-757-8343
+office_phone: 305-329-4900
+email: 
+website: https://kimberleyroberts.ewm.com
+address: 2750 NE 185th Street Suite 101 Miami, FL 33180
+profile_url: https://www.ewm.com/agents/1776731/Kimberley+Roberts
+image_url: https://d9la9jrhv6fdd.cloudfront.net/agentimages/nophoto.jpg
+
+name: Heather Hewitson
+license: 3424506
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 786-972-4400
+work_phone: 786-972-4400
+direct_line: 786-972-4400
+office_phone: 305-960-2400
+email: 
+website: https://heatherhewitson.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/1776961/Heather+Hewitson
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1776961.jpg
+
+name: Emily Mejia
+license: 3318959
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 305-283-5694
+work_phone: 305-960-2400
+direct_line: 305-283-5694
+office_phone: 305-960-2400
+email: 
+website: https://emilyannmejia.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/1777079/Emily+Mejia
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1777079.jpg
+
+name: Sonia De Medeiros
+license: 3322653
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 305-904-0121
+work_phone: 305-960-2400
+direct_line: 305-904-0121
+office_phone: 305-960-2400
+email: 
+website: https://soniademedeiros.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/1777027/Sonia+De+Medeiros
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1777027.jpg
+
+name: Kasia Shields
+license: 3628625
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 
+work_phone: 708-710-3750
+direct_line: 
+office_phone: 305-960-2400
+email: 
+website: https://kasiashields.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/1971908/Kasia+Shields
+image_url: https://d9la9jrhv6fdd.cloudfront.net/agentimages/nophoto.jpg
+
+name: Demaris Dee Quintero
+license: 0331998
+position: Broker Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 305-542-6952
+work_phone: 305-960-2462
+direct_line: 305-542-6952
+office_phone: 305-960-2400
+email: 
+website: https://demarisquintero.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/1776938/Demaris+Dee+Quintero
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1776938.jpg
+
+name: Ymaris Aleman
+license: 0661340
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 954-812-5789
+work_phone: 954-812-5789
+direct_line: 954-812-5789
+office_phone: 305-960-2400
+email: 
+website: https://ymarisaleman.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/1637600/Ymaris+Aleman
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1637600.jpg
+
+name: Leslie Jones
+license: 0556334
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 305-794-9790
+work_phone: 305-794-9790
+direct_line: 305-794-9790
+office_phone: 305-960-2400
+email: 
+website: https://lesliejones.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/1776942/Leslie+Jones
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1776942.jpg
+
+name: Amber Mern
+license: 3545015
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Aventura
+cell: 561-376-0886
+work_phone: 305-749-9851
+direct_line: 305-749-9851
+office_phone: 305-329-4900
+email: 
+website: https://ambermern.ewm.com
+address: 2750 NE 185th Street Suite 101 Miami, FL 33180
+profile_url: https://www.ewm.com/agents/1776694/Amber+Mern
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1776694.jpg
+
+name: Lorena Garcia Morillo
+license: 3221858
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Key Biscayne
+cell: 305-215-7693
+work_phone: 305-960-5350
+direct_line: 305-215-7693
+office_phone: 305-960-5350
+email: 
+website: https://lorenamorillo.ewm.com
+address: 644 Crandon Boulevard Miami, FL 33149
+profile_url: https://www.ewm.com/agents/1776788/Lorena+Garcia+Morillo
+image_url: https://d9la9jrhv6fdd.cloudfront.net/agentimages/nophoto.jpg
+
+name: Lilian Liu
+license: 3240700
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 617-694-6332
+work_phone: 305-960-2400
+direct_line: 
+office_phone: 305-960-2400
+email: 
+website: https://lilianliu.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/1777152/Lilian+Liu
+image_url: https://d9la9jrhv6fdd.cloudfront.net/agentimages/nophoto.jpg
+
+name: Rafael Palacios
+license: 3603540
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 786-303-2371
+work_phone: 305-960-2400
+direct_line: 
+office_phone: 305-960-2400
+email: 
+website: https://rafaelpalacios.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/1777181/Rafael+Palacios
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1777181.jpg
+
+name: Anastasia Pantelidis
+license: 
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 347-671-4422
+work_phone: 347-671-4422
+direct_line: 347-671-4422
+office_phone: 305-960-2400
+email: 
+website: https://anastasiapanelidis.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/1637620/Anastasia+Pantelidis
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1637620.jpg
+
+name: Yusuf Yolasan
+license: 3485934
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Miami Beach
+cell: 305-322-1812
+work_phone: 305-674-4000
+direct_line: 305-322-1812
+office_phone: 305-674-4000
+email: 
+website: https://yusufyolasan.ewm.com
+address: 419 West 41st Street Miami, FL 33140
+profile_url: https://www.ewm.com/agents/1857020/Yusuf+Yolasan
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1857020.jpg
+
+name: Andrea Marcela Salvatore
+license: 3284354
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Key Biscayne
+cell: 305-989-6765
+work_phone: 305-960-5350
+direct_line: 305-989-6765
+office_phone: 305-960-5350
+email: 
+website: https://andreasalvatore.ewm.com
+address: 644 Crandon Boulevard Miami, FL 33149
+profile_url: https://www.ewm.com/agents/1776808/Andrea+Marcela+Salvatore
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1776808.jpg
+
+name: Dominique Santana
+license: 3451242
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Miami Beach
+cell: 305-496-2700
+work_phone: 305-674-4000
+direct_line: 
+office_phone: 305-674-4000
+email: 
+website: https://dominiquesantana.ewm.com
+address: 419 West 41st Street Miami, FL 33140
+profile_url: https://www.ewm.com/agents/1776860/Dominique+Santana
+image_url: https://d9la9jrhv6fdd.cloudfront.net/agentimages/nophoto.jpg
+
+name: Louis Guadagno
+license: 0633146
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Miami Beach
+cell: 305-906-2959
+work_phone: 305-906-2959
+direct_line: 305-906-2959
+office_phone: 305-674-4000
+email: 
+website: https://louis-guadagno.ewm.com
+address: 419 West 41st Street Miami, FL 33140
+profile_url: https://www.ewm.com/agents/1779433/Louis+Guadagno
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1779433.jpg
+
+name: Giovanna Fernandez
+license: 3309339
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 786-376-3372
+work_phone: 786-376-3372
+direct_line: 786-376-3372
+office_phone: 305-960-2400
+email: 
+website: https://giovannafernandez.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/1802149/Giovanna+Fernandez
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1802149.jpg
+
+name: Diana Zubillaga
+license: 
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Key Biscayne
+cell: 202-604-4176
+work_phone: 305-960-5350
+direct_line: 202-604-4176
+office_phone: 305-960-5350
+email: 
+website: https://dianazubillaga.ewm.com
+address: 644 Crandon Boulevard Miami, FL 33149
+profile_url: https://www.ewm.com/agents/1776853/Diana+Zubillaga
+image_url: https://d9la9jrhv6fdd.cloudfront.net/agentimages/nophoto.jpg
+
+name: Donald Bravo
+license: 3464167
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 305-972-4282
+work_phone: 305-960-2400
+direct_line: 
+office_phone: 305-960-2400
+email: 
+website: https://donbravo.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/2056592/Donald+Bravo
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_2056592.jpg
+
+name: Luciana Tamm
+license: 3256327
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Key Biscayne
+cell: 305-335-3045
+work_phone: 305-960-5350
+direct_line: 305-335-3045
+office_phone: 305-960-5350
+email: 
+website: https://lucianatamm.ewm.com
+address: 644 Crandon Boulevard Miami, FL 33149
+profile_url: https://www.ewm.com/agents/1777254/Luciana+Tamm
+image_url: https://d9la9jrhv6fdd.cloudfront.net/agentimages/nophoto.jpg
+
+name: Penelope Moulinos
+license: 3484767
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Miami Beach
+cell: 305-609-7616
+work_phone: 305-674-4000
+direct_line: 
+office_phone: 305-674-4000
+email: 
+website: https://penelopemoulinos.ewm.com
+address: 419 West 41st Street Miami, FL 33140
+profile_url: https://www.ewm.com/agents/1776923/Penelope+Moulinos
+image_url: https://d9la9jrhv6fdd.cloudfront.net/agentimages/nophoto.jpg
+
+name: Valentina Ashrafi
+license: 3653046
+position: REALTOR®
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 239-201-9441
+work_phone: 305-960-2400
+direct_line: 
+office_phone: 305-960-2400
+email: 
+website: https://valentinaashrafi.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/2056271/Valentina+Ashrafi
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_2056271.jpg
+
+name: Ana Anderson
+license: 0386574
+position: Broker Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 305-331-1553
+work_phone: 305-329-7713
+direct_line: 305-331-1553
+office_phone: 305-960-2400
+email: 
+website: https://anaanderson.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/1776990/Ana+Anderson
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1776990.jpg
+
+name: Barbara Savalli
+license: 0705510
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Aventura
+cell: 786-325-2225
+work_phone: 786-325-2225
+direct_line: 786-325-2225
+office_phone: 305-329-4900
+email: 
+website: https://platinumgroup.ewm.com
+address: 2750 NE 185th Street Suite 101 Miami, FL 33180
+profile_url: https://www.ewm.com/agents/1777213/Barbara+Savalli
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1777213.png
+
+name: Sofia Milo
+license: 3568507
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 305-930-0626
+work_phone: 305-960-2400
+direct_line: 
+office_phone: 305-960-2400
+email: 
+website: https://sofiamilo.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/1777119/Sofia+Milo
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1777119.jpg
+
+name: Carlos Prio
+license: 3015217
+position: Licensed Real Estate Salesperson
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 305-785-7746
+work_phone: 305-785-7746
+direct_line: 305-785-7746
+office_phone: 305-960-2400
+email: 
+website: https://carlos-prio.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/1799690/Carlos+Prio
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1799690.jpg
+
+name: Marcelo Steinmander, P.A.
+license: 3256567
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Miami Beach
+cell: 305-674-4127
+work_phone: 305-674-4127
+direct_line: 305-674-4127
+office_phone: 305-674-4000
+email: 
+website: https://marcelo.ewm.com
+address: 419 West 41st Street Miami, FL 33140
+profile_url: https://www.ewm.com/agents/1776889/Marcelo+Steinmander%2C+P.A.
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1776889.jpg
+
+name: Tanya Schultz
+license: 3034696
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Aventura
+cell: 305-527-7930
+work_phone: 305-527-7930
+direct_line: 305-527-7930
+office_phone: 305-329-4900
+email: 
+website: https://tanyaschultz.ewm.com
+address: 2750 NE 185th Street Suite 101 Miami, FL 33180
+profile_url: https://www.ewm.com/agents/1776724/Tanya+Schultz
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1776724.jpg
+
+name: Carina Ramirez
+license: 3021729
+position: Real Estate Agent
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 786-554-7111
+work_phone: 786-554-7111
+direct_line: 786-554-7111
+office_phone: 305-960-2400
+email: 
+website: https://carinaramirez.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/1777257/Carina+Ramirez
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1777257.jpg
+
+name: Caroline Candib
+license: 3220194
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Miami Beach
+cell: 305-807-6545
+work_phone: 305-674-4050
+direct_line: 305-807-6545
+office_phone: 305-674-4000
+email: 
+website: https://carolinecandib.ewm.com
+address: 419 West 41st Street Miami, FL 33140
+profile_url: https://www.ewm.com/agents/1777305/Caroline+Candib
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1777305.jpg
+
+name: Ifigenia Gonzalez
+license: 3217910
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Key Biscayne
+cell: 786-302-0596
+work_phone: 305-361-5600
+direct_line: 786-302-0596
+office_phone: 305-960-5350
+email: 
+website: https://ifigeniagonzalez.ewm.com
+address: 644 Crandon Boulevard Miami, FL 33149
+profile_url: https://www.ewm.com/agents/1776791/Ifigenia+Gonzalez
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1776791.jpg
+
+name: Vanessa Bauer
+license: 3648049
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 
+work_phone: 786-271-3161
+direct_line: 
+office_phone: 305-960-2400
+email: 
+website: https://vanessabauer.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/2055553/Vanessa+Bauer
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_2055553.jpg
+
+name: Monica Elisa Ferragut Gutierrez Solana
+license: 3358067
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Key Biscayne
+cell: 305-607-9163
+work_phone: 305-960-5350
+direct_line: 305-607-9163
+office_phone: 305-960-5350
+email: 
+website: https://monicaferragut.ewm.com
+address: 644 Crandon Boulevard Miami, FL 33149
+profile_url: https://www.ewm.com/agents/1776785/Monica+Elisa+Ferragut+Gutierrez+Solana
+image_url: https://d9la9jrhv6fdd.cloudfront.net/agentimages/nophoto.jpg
+
+name: Nicole Alexander
+license: 3552204
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 212-920-0383
+work_phone: 212-920-0383
+direct_line: 212-920-0383
+office_phone: 305-960-2400
+email: 
+website: https://nicolealexander.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/1777045/Nicole+Alexander
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1777045.jpg
+
+name: Tori Holbrook
+license: 3658329
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 619-312-9134
+work_phone: 305-960-2400
+direct_line: 
+office_phone: 305-960-2400
+email: 
+website: https://toriholbrook.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/2078522/Tori+Holbrook
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_2078522.jpg
+
+name: Elena Chacon, P.A.
+license: 3268706
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Key Biscayne
+cell: 305-606-5700
+work_phone: 305-960-5350
+direct_line: 305-606-5700
+office_phone: 305-960-5350
+email: 
+website: https://elenachacon.ewm.com
+address: 644 Crandon Boulevard Miami, FL 33149
+profile_url: https://www.ewm.com/agents/1776781/Elena+Chacon%2C+P.A.
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1776781.jpg
+
+name: Steven Sarajian
+license: 3255083
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Aventura
+cell: 954-646-2842
+work_phone: 305-329-4900
+direct_line: 954-646-2842
+office_phone: 305-329-4900
+email: 
+website: https://stevensarajian.ewm.com
+address: 2750 NE 185th Street Suite 101 Miami, FL 33180
+profile_url: https://www.ewm.com/agents/1777210/Steven+Sarajian
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1777210.jpg
+
+name: Roxana Galatolo
+license: 3656416
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 786-271-6824
+work_phone: 305-960-2400
+direct_line: 
+office_phone: 305-960-2400
+email: 
+website: https://roxanagalatolo.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/2068303/Roxana+Galatolo
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_2068303.jpg
+
+name: Verna Miller, P.A.
+license: 3036176
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Aventura
+cell: 954-647-7653
+work_phone: 305-329-4900
+direct_line: 954-647-7653
+office_phone: 305-329-4900
+email: 
+website: https://vernamiller.ewm.com
+address: 2750 NE 185th Street Suite 101 Miami, FL 33180
+profile_url: https://www.ewm.com/agents/1777207/Verna+Miller%2C+P.A.
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1777207.jpg
+
+name: Ernesto J. Mendoza
+license: 3237350
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Miami Beach
+cell: 917-405-5028
+work_phone: 305-674-4000
+direct_line: 
+office_phone: 305-674-4000
+email: 
+website: https://ernestojmendoza.ewm.com
+address: 419 West 41st Street Miami, FL 33140
+profile_url: https://www.ewm.com/agents/1892560/Ernesto+J.+Mendoza
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1892560.jpg
+
+name: Adelina Panosso
+license: 3596211
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 305-849-5843
+work_phone: 305-960-2400
+direct_line: 
+office_phone: 305-960-2400
+email: 
+website: https://adelinapanosso.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/1777154/Adelina+Panosso
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1777154.jpg
+
+name: Edward Prats
+license: 3173685
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 786-877-9742
+work_phone: 305-960-2400
+direct_line: 786-877-9742
+office_phone: 305-960-2400
+email: 
+website: https://edwardprats.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/1776933/Edward+Prats
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1776933.jpg
+
+name: Alicia Tarafa Gilbert
+license: 3051537
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Key Biscayne
+cell: 305-586-3190
+work_phone: 305-361-5600
+direct_line: 305-586-3190
+office_phone: 305-960-5350
+email: 
+website: https://aliciatarafagilbert.ewm.com
+address: 644 Crandon Boulevard Miami, FL 33149
+profile_url: https://www.ewm.com/agents/1776790/Alicia+Tarafa+Gilbert
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1776790.jpg
+
+name: Lorraine Devine
+license: 3495556
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Aventura
+cell: 609-412-6509
+work_phone: 305-329-4900
+direct_line: 609-412-6509
+office_phone: 305-329-4900
+email: 
+website: https://lorrainedevine.ewm.com
+address: 2750 NE 185th Street Suite 101 Miami, FL 33180
+profile_url: https://www.ewm.com/agents/1776729/Lorraine+Devine
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1776729.jpg
+
+name: Alexey Blagoveshchenskiy
+license: 3574592
+position: Realtor®
+office: Berkshire Hathaway HomeServices EWM Realty - Aventura
+cell: 305-928-3640
+work_phone: 305-928-3640
+direct_line: 
+office_phone: 305-329-4900
+email: 
+website: https://alexeyblagoveshchenskiy.ewm.com
+address: 2750 NE 185th Street Suite 101 Miami, FL 33180
+profile_url: https://www.ewm.com/agents/1776728/Alexey+Blagoveshchenskiy
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1776728.jpg
+
+name: Connie Cabral
+license: 
+position: Real Estate Advisor
+office: Berkshire Hathaway HomeServices EWM Realty - Aventura
+cell: 
+work_phone: 305-776-0899
+direct_line: 
+office_phone: 305-329-4900
+email: 
+website: https://conniecabral.ewm.com
+address: 2750 NE 185th Street Suite 101 Miami, FL 33180
+profile_url: https://www.ewm.com/agents/1776691/Connie+Cabral
+image_url: https://d9la9jrhv6fdd.cloudfront.net/agentimages/nophoto.jpg
+
+name: Fernanda Blanco, P.A.
+license: 0642223
+position: Broker Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 305-710-8611
+work_phone: 305-710-8611
+direct_line: 305-710-8611
+office_phone: 305-960-2400
+email: 
+website: https://fernandablanco.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/1777259/Fernanda+Blanco%2C+P.A.
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1777259.jpg
+
+name: Miguel Sainz
+license: 705170
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 305-389-4848
+work_phone: 305-389-4848
+direct_line: 305-389-4848
+office_phone: 305-960-2400
+email: 
+website: https://MiguelSainz.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/1637603/Miguel+Sainz
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1637603.jpg
+
+name: Carlos Fornari
+license: 3406690
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 305-790-3234
+work_phone: 305-790-3234
+direct_line: 305-790-3234
+office_phone: 305-960-2400
+email: 
+website: https://carlosfornari.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/1776955/Carlos+Fornari
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1776955.jpg
+
+name: Tiziano Mercante
+license: 3349360
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 305-498-7264
+work_phone: 305-498-7264
+direct_line: 
+office_phone: 305-960-2400
+email: 
+website: https://tizianomercante.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/1777064/Tiziano+Mercante
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1777064.jpg
+
+name: Cyndi Henriksen
+license: 0302736
+position: Broker Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Miami Beach
+cell: 305-216-1156
+work_phone: 305-674-4027
+direct_line: 305-216-1156
+office_phone: 305-674-4000
+email: 
+website: https://cyndihenriksen.ewm.com
+address: 419 West 41st Street Miami, FL 33140
+profile_url: https://www.ewm.com/agents/1776900/Cyndi+Henriksen
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1776900.jpg
+
+name: Tom Barbato
+license: 3238765
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 305-322-1074
+work_phone: 305-322-1074
+direct_line: 305-322-1074
+office_phone: 305-960-2400
+email: 
+website: https://tombarbatopa.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/1777070/Tom+Barbato
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1777070.jpg
+
+name: La Shawn Kinder
+license: 
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Coral Gables
+cell: 786-763-1575
+work_phone: 305-271-4350
+direct_line: 786-763-1575
+office_phone: 305-960-2400
+email: 
+website: https://lashawnkinder.ewm.com
+address: 550 South Dixie Highway Miami, FL 33146
+profile_url: https://www.ewm.com/agents/1637612/La+Shawn+Kinder
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1637612.jpg
+
+name: Robert Borger
+license: 3645179
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Aventura
+cell: 305-927-7220
+work_phone: 305-329-4900
+direct_line: 
+office_phone: 305-329-4900
+email: 
+website: https://robertborger.ewm.com
+address: 2750 NE 185th Street Suite 101 Miami, FL 33180
+profile_url: https://www.ewm.com/agents/2024554/Robert+Borger
+image_url: https://d9la9jrhv6fdd.cloudfront.net/agentimages/nophoto.jpg
+
+name: Sebastian Pino
+license: 3620052
+position: Realtor®
+office: Berkshire Hathaway HomeServices EWM Realty - Key Biscayne
+cell: 954-355-8785
+work_phone: 305-960-5350
+direct_line: 
+office_phone: 305-960-5350
+email: 
+website: https://sebastianpino.ewm.com
+address: 644 Crandon Boulevard Miami, FL 33149
+profile_url: https://www.ewm.com/agents/1851921/Sebastian+Pino
+image_url: https://d9la9jrhv6fdd.cloudfront.net/agentimages/nophoto.jpg
+
+name: Maria Victoria Ferres
+license: 3250984
+position: Sales Associate
+office: Berkshire Hathaway HomeServices EWM Realty - Key Biscayne
+cell: 305-799-4900
+work_phone: 305-960-5350
+direct_line: 305-799-4900
+office_phone: 305-960-5350
+email: 
+website: https://mariaferres.ewm.com
+address: 644 Crandon Boulevard Miami, FL 33149
+profile_url: https://www.ewm.com/agents/1776787/Maria+Victoria+Ferres
+image_url: https://d2td4dobkk213c.cloudfront.net/berkshirehathawayhomeservicesewmrealty11930/profiles/11930_1776787.jpg
+
