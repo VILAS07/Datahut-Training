@@ -1,0 +1,6 @@
+requests
+parsel
+mongoengine
+pytz
+pycryptodome
+mongomock   # only for MONGO_MOCK=True tests

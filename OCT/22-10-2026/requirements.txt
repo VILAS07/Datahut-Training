@@ -1,0 +1,7 @@
+curl_cffi
+parsel
+lxml
+mongoengine
+pymongo
+pytz
+python-dateutil
