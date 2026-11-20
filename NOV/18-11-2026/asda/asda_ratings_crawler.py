@@ -1,39 +1,4 @@
 
-"""
-ASDA Grocery Product Ratings Collector
----------------------------------------
-Collects ASDA grocery products from the public Algolia search index.
-
-Extracts:
-    Product ID, CIN, product name, brand, PDP URL,
-    average rating, rating count, image ID, pack size,
-    product type, category, department, aisle, shelf,
-    taxonomy and price.
-
-Requirements:
-    pip install curl_cffi parsel
-
-Run:
-    python asda_ratings_crawler.py
-
-Collect 100 grocery products:
-    python asda_ratings_crawler.py --max-products 100
-
-Collect 500 grocery products:
-    python asda_ratings_crawler.py --max-products 500
-
-Collect a specific primary category:
-    python asda_ratings_crawler.py --category "Frozen Food"
-
-Notes:
-- Uses curl_cffi and parsel only.
-- No Playwright.
-- Uses read-only Algolia search requests.
-- Filters products using grocery taxonomy.
-- Request statistics measure Algolia requests.
-- This script does not crawl PDP HTML or extract individual reviews.
-"""
-
 import argparse
 import csv
 import re
